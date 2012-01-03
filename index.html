@@ -1,0 +1,10 @@
+---
+layout: default
+title: striving towards mediocrity
+---
+{% for post in site.posts limit: 1 %}
+{% assign content = post.content %}
+{% include post.html %}
+{% endfor %}
+
+{% include vcard.html %}

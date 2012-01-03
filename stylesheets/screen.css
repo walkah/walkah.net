@@ -1,0 +1,196 @@
+@font-face {
+    font-family: Typewriter;
+    src: url(Typewriter.otf) format("opentype");
+}
+
+/*	Resets
+	------	*/
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, 
+p, blockquote, pre, a, abbr, address, cite, code, del, dfn, em, 
+img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, hr, 
+dl, dt, dd, ol, ul, li, fieldset, form, label, legend, 
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figure, figcaption, hgroup, 
+menu, footer, header, nav, section, summary, time, mark, audio, video {
+	  margin: 0;
+	  padding: 0;
+	  border: 0;
+}
+
+article, aside, canvas, figure, figure img, figcaption, hgroup,
+footer, header, nav, section, audio, video {
+	  display: block;
+}
+
+a {
+    text-decoration: none;
+}
+
+body { 
+    color: #343434;
+    margin: 0 auto;
+    background: #ffffff;
+	  font-family: PT Serif, Georgia, serif;
+    font-size: 18px;
+	  width: 712px;
+	  padding: 48px 48px 84px;
+    margin: 0 auto;
+}
+
+h1 {
+	  font-size: 48px;
+	  line-height: 58px;
+}
+
+h2 {
+	  font-size: 32px;
+	  line-height: 36px;    
+}
+
+h3 {
+	  font-size: 24px;
+	  line-height: 32px;
+}
+
+img.left {
+    float: left;
+    margin: 0 1em 1em 0;
+}
+
+img.right {
+    float: right;
+    margin: 0 0 1em 1em;
+}
+
+header h1, header h2 {
+    display: inline;
+    font-family: Typewriter,"Georgia","Times",serif;
+    font-weight: normal;
+    padding-right: 10px;
+}
+
+header h1 a {
+    color: #343434;
+}
+
+header h2 {
+    color: #676767;
+}
+
+nav {
+    margin: 1em 0;
+    padding: 0 0 1em 0;
+    text-transform: uppercase;
+    border-bottom: 1px solid #dedede;
+}
+
+nav ul.navigation {
+    border-left: 4px solid #dedede;
+    padding-left: 0.5em;
+}
+
+nav ul.navigation li {
+    display: inline;
+    list-style-type: none;
+    padding: 0 1em 0 0;
+    font-size: 16px;
+}
+
+nav ul.navigation li a {
+    color: #303030;
+}
+
+/** Article styles **/
+article header h1 {
+    display: block;
+    font-size: 32px;
+    line-height: 36px;
+    margin-bottom: 1em;
+    text-transform: lowercase;
+}
+
+article p {
+    text-align: justify;
+    margin: 0.5em 0 1em 0;
+}
+
+article pre {
+    background: #000;
+    color: #fff;
+    padding: 10px;
+}
+
+article ul, article ol {
+    margin-left: 2em;
+}
+
+article footer time {
+    display: block;
+    text-align: right;
+}
+
+footer {
+    margin: 1em 0;
+    font-size: 16px;
+}
+
+.vcard {
+    border-top: 1px #dedede solid;
+    border-bottom: 1px #dedede solid;
+    padding: 10px 0;
+}
+
+.vcard p {
+    font-size: 16px;
+    margin-bottom: 0.5em;
+}
+
+.vcard img {
+    float: left;
+    margin: 0 0.5em 0 0;
+    border: 1px #dedede solid;
+    padding: 3px;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	
+	body {
+		width: 712px;
+		padding: 48px 28px 60px;
+	}
+  
+  #main {
+      528px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+	
+	body {
+		width: 252px;
+		padding: 48px 34px 60px;
+	}
+	
+  body>header h2 {
+      display: none;
+  }
+
+  #main {
+      width: 252px;
+  }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+	body {
+		width: 436px;
+		padding: 36px 22px 48px;
+	}
+
+  #main {
+      width: 436px;
+  }
+	
+}
+

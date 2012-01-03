@@ -1,0 +1,14 @@
+title: walkah
+slogan: striving towards mediocrity
+author: James Walker
+url: http://walkah.net
+
+auto: false
+pygments: true
+lsi: false
+markdown: rdiscount
+permalink: blog/:title
+paginate: 10
+pagination_dir: blog
+exclude: Gemfile, Gemfile.lock
+

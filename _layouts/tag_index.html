@@ -1,0 +1,16 @@
+---
+layout: page
+title: Posts tagged "{{ page.tag }}"
+---
+{% for post in site.tags[page.tag] reverse %}
+{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+{% unless year == this_year %}
+{% assign year = this_year %}
+<h3>{{ year }}</h3>
+{% endunless %}
+<div>
+  <time datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate>{{ post.date | date: "%B %d" }}</time> &mdash;
+  <a href="/{{ post.url }}">{{post.title}}</a>
+</div>
+{% endfor %}
+<p><a href="/tag/{{ page.tag }}/atom.xml">subscribe</a></p>

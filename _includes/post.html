@@ -1,0 +1,12 @@
+<article class="hentry" role="article">
+  <header>
+    <h1 class="entry-title">{{ post.title }}</h1>
+  </header>
+  <div class="entry-content">
+    {{ content }}
+  </div>
+  <footer class="meta">
+    <p>posted in: {{ post.tags | tag_links }}</p>
+    <time datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate>&mdash; <a href="/{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time>
+  </footer>
+</article>
