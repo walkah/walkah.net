@@ -8,7 +8,4 @@ pygments: true
 lsi: false
 markdown: rdiscount
 permalink: blog/:title
-paginate: 10
-pagination_dir: blog
-exclude: Gemfile, Gemfile.lock
-
+exclude: Gemfile, Gemfile.lock, Rakefile
