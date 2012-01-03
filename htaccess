@@ -1,0 +1,21 @@
+---
+layout: nil
+permalink: .htaccess
+---
+ErrorDocument 404 /404.html
+
+Redirect permanent /james-walker /about/
+
+Redirect permanent /node/feed /atom.xml
+Redirect permanent /rss.xml /atom.xml
+Redirect permanent /topics/drupal/feed /tag/drupal/atom.xml
+
+<IfModule mod_rewrite.c>
+  RewriteEngine on
+
+  RewriteCond %{HTTP_USER_AGENT} !^(FeedBurner|FeedValidator) [NC]
+  RewriteRule ^atom.xml http://feeds.feedburner.com/walkah
+
+  RewriteCond %{HTTP_USER_AGENT} !^(FeedBurner|FeedValidator) [NC]
+  RewriteRule ^tag/drupal/atom.xml http://feeds.feedburner.com/walkah/drupal
+</IfModule>
