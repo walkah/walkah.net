@@ -1,0 +1,2 @@
+#!/bin/zsh
+rvm --create use 1.9.2
