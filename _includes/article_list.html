@@ -1,0 +1,4 @@
+<article class="list">
+  <time datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate>{{ post.date | date: "%B %d" }}</time>
+  <a href="/{{ post.url }}">{{post.title}}</a>
+</article>

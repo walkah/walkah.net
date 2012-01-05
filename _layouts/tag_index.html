@@ -8,9 +8,6 @@ title: Posts tagged "{{ page.tag }}"
 {% assign year = this_year %}
 <h3>{{ year }}</h3>
 {% endunless %}
-<div>
-  <time datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate>{{ post.date | date: "%B %d" }}</time> &mdash;
-  <a href="/{{ post.url }}">{{post.title}}</a>
-</div>
+{% include article_list.html %}
 {% endfor %}
 <p><a href="/tag/{{ page.tag }}/atom.xml">subscribe</a></p>
