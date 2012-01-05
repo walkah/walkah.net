@@ -51,6 +51,8 @@ h2 {
 h3 {
 	  font-size: 24px;
 	  line-height: 32px;
+    font-weight: normal;
+    margin: 0.5em 0;
 }
 
 img.left {
@@ -101,8 +103,7 @@ nav ul.navigation li a {
     color: #303030;
 }
 
-/** Article styles **/
-article header h1 {
+#main header h1 {
     display: block;
     font-size: 32px;
     line-height: 36px;
@@ -110,19 +111,20 @@ article header h1 {
     text-transform: lowercase;
 }
 
-article p {
+#main p {
     text-align: justify;
     margin: 0.5em 0 1em 0;
 }
 
+#main ul, #main ol {
+    margin-left: 2em;
+}
+
+/** Article styles **/
 article pre {
     background: #000;
     color: #fff;
     padding: 10px;
-}
-
-article ul, article ol {
-    margin-left: 2em;
 }
 
 article footer time {
@@ -130,23 +132,41 @@ article footer time {
     text-align: right;
 }
 
+article.list {
+    clear: both;
+}
+
+article.list time {
+    font-size: 16px;
+    width: 120px;
+    color: #696969;
+    float: left;
+}
+
 footer {
     margin: 1em 0;
     font-size: 16px;
 }
 
-.vcard {
+body>footer {
     border-top: 1px #dedede solid;
-    border-bottom: 1px #dedede solid;
+    padding: 1em 0;
+    margin: 0;
+}
+
+#main .vcard {
+    border-top: 1px #dedede solid;
     padding: 10px 0;
+    margin: 1em 0 0 0;
+    clear: both;
 }
 
-.vcard p {
+#main .vcard p {
     font-size: 16px;
-    margin-bottom: 0.5em;
+    margin: 0 0 0.5em 0;
 }
 
-.vcard img {
+#main .vcard img {
     float: left;
     margin: 0 0.5em 0 0;
     border: 1px #dedede solid;
