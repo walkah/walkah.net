@@ -5,11 +5,12 @@ permalink: .htaccess
 ErrorDocument 404 /404.html
 Options +Multiviews
 
-Redirect permanent /james-walker /about/
+Redirect permanent /james-walker /about.html
 
 Redirect permanent /node/feed /atom.xml
 Redirect permanent /rss.xml /atom.xml
 Redirect permanent /topics/drupal/feed /tag/drupal/atom.xml
+Redirect permanent /tag/openid/feed /tag/openid/atom.xml
 
 <IfModule mod_rewrite.c>
   RewriteEngine on
