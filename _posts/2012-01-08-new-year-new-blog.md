@@ -1,4 +1,5 @@
 ---
+layout: post
 title: New Year, New Blog
 tags: 
   - site
