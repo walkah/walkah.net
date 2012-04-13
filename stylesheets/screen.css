@@ -127,6 +127,10 @@ article pre {
     padding: 10px;
 }
 
+article .gist-file pre {
+    color: #000;
+}
+
 article footer time {
     display: block;
     text-align: right;
