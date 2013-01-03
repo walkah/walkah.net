@@ -3,4 +3,4 @@ rvm_gemset_create_on_use_flag=1
 # switch to default ruby version when exiting directory
 rvm_project_rvmrc_default=1
 # use ruby 1.8.7 with a specific gemset
-rvm ruby-1.9.3-p194@walkah.net
+rvm ruby-1.9.3@walkah.net
