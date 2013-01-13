@@ -6,6 +6,6 @@ url: http://walkah.net
 auto: false
 pygments: true
 lsi: false
-markdown: rdiscount
+markdown: kramdown
 permalink: blog/:title
 exclude: Gemfile, Gemfile.lock, Rakefile
