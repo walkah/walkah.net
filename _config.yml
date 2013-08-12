@@ -3,9 +3,11 @@ slogan: striving towards mediocrity
 author: James Walker
 url: http://walkah.net
 
-auto: false
 pygments: true
 lsi: false
 markdown: kramdown
 permalink: blog/:title
-exclude: Gemfile, Gemfile.lock, Rakefile
+exclude: 
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
