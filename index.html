@@ -2,14 +2,11 @@
 layout: default
 title: striving towards mediocrity
 ---
-{% for post in site.posts limit: 1 %}
-{% assign content = post.content %}
-{% include post.html %}
-{% endfor %}
 
-<h3>other recent posts:</h3>
-{% for post in site.posts limit: 5 offset: 1 %}
+{% include vcard.html %}
+
+<h3>recent posts:</h3>
+{% for post in site.posts limit: 5 %}
 {% include article_list.html %}
 {% endfor %}
 
-{% include vcard.html %}

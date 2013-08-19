@@ -121,6 +121,10 @@ nav ul.navigation li a {
 }
 
 /** Article styles **/
+article.hentry {
+    border-bottom: 1px #dedede solid;
+}
+
 article pre {
     background: #000;
     color: #fff;
@@ -161,11 +165,9 @@ footer {
 body>footer {
     border-top: 1px #dedede solid;
     padding: 1em 0;
-    margin: 0;
 }
 
 #main .vcard {
-    border-top: 1px #dedede solid;
     padding: 10px 0;
     margin: 1em 0 0 0;
     clear: both;
