@@ -7,6 +7,6 @@
   </div>
   <footer class="meta">
     <p>posted in: {{ post.tags | tag_links }}</p>
-    <time datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate>&mdash; <a href="/{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time>
+    <time datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate>&mdash; <a href="{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time>
   </footer>
 </article>
