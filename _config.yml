@@ -5,7 +5,7 @@ url: http://walkah.net
 
 pygments: true
 lsi: false
-markdown: kramdown
+markdown: redcarpet
 permalink: blog/:title
 exclude: 
   - Gemfile
