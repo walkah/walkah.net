@@ -5,9 +5,9 @@ task :build do
   jekyll 'build'
 end
  
-desc 'Build and start server with --auto'
+desc 'Build and start local server'
 task :server do
-  jekyll 'serve -w'
+  jekyll 'serve -w -D'
 end
 
 desc 'Build and deploy'
