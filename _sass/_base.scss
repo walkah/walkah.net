@@ -1,0 +1,38 @@
+@import "susy";
+
+@font-face {
+    font-family: Typewriter;
+    src: url(Typewriter.otf) format("opentype");
+}
+
+$serif: 'PT Serif', 'Georgia', serif;
+$typewriter: Typewriter,"Georgia","Times",serif;
+
+$total-columns  : 6;
+$column-width   : 3em;
+$gutter-width   : 1em;
+$grid-padding   : $gutter-width;
+
+$container-style: magic;
+
+$show-grid-backgrounds  : true;
+
+$break: 12;
+
+.container {
+    @include container($total-columns, $break);
+}
+
+body {
+    color: #343434;
+    background: #ffffff;
+	  font-family: $serif;
+    font-size: 16px;
+    padding-top: 3em;
+}
+
+a {
+    text-decoration: none;
+}
+
+

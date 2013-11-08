@@ -21,24 +21,25 @@
   <meta http-equiv="X-XRDS-Location" content="http://www.myopenid.com/xrds?username=walkah.myopenid.com" />
 </head>
 <body>
-  <header>
-    <h1><a href="/">{{ site.title }}</a></h1>
-    <h2>{{ site.slogan }}</h2>
-  </header>
-  <nav role="navigation">
-    <ul class="navigation">
-      <li><a href="/">Home</a></li>
-      <li><a href="/about.html">About</a></li>
-      <li><a href="/blog/">Blog</a></li>
-      <li><a href="/contact.html">Contact</a></li>
-    </ul>
-  </nav>
-  <section id="main">
-    {{ content }}    
-  </section>
-  <footer>
-    &copy; 2002-{{ site.time | date:"%Y" }} {{ site.author }}
-  </footer>
+  <div class="container">
+    <header>
+      <h1 id="title"><a href="/">{{ site.title }}</a></h1>
+    </header>
+    <nav role="navigation">
+      <ul class="navigation">
+        <li><a href="/">Home</a></li>
+        <li><a href="/about.html">About</a></li>
+        <li><a href="/blog/">Blog</a></li>
+        <li><a href="/contact.html">Contact</a></li>
+      </ul>
+    </nav>
+    <section id="main">
+      {{ content }}    
+    </section>
+    <footer>
+      &copy; 2002-{{ site.time | date:"%Y" }} {{ site.author }}
+    </footer>
+  </div>
   {% include google_analytics.html %}
 </body>
 </html>

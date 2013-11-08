@@ -1,0 +1,35 @@
+// Header
+
+header {
+    #title {
+        display: inline;
+        font-family: $typewriter;
+        font-weight: normal;
+        font-size: 3em;
+        a {
+            color: #343434;
+        }
+    }
+}
+
+nav {
+    margin: 1em 0;
+    text-transform: uppercase;
+    border-bottom: 1px solid #dedede;
+    
+    ul.navigation {
+        border-left: 4px solid #dedede;
+        padding-left: 0.5em;
+        
+        li {
+            display: inline;
+            list-style-type: none;
+            padding: 0 1em 0 0;
+            font-size: 16px;
+
+            a {
+                color: #303030;
+            }
+        }
+    }
+}
