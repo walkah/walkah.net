@@ -1,5 +1,136 @@
 @import "base";
-@import "header";
-@import "main";
-@import "footer";
 
+body {
+    color: #343434;
+    background: #ffffff;
+	  font-family: $serif;
+
+    a { text-decoration: none; }
+
+    .container {
+        @include container($total-columns, $break);
+        //@include susy-grid-background;
+
+        #header {
+            header {
+                h1 {
+                    font-family: $typewriter;
+
+                    a {
+                        color: #343434;
+                    }
+                }
+            }
+
+            nav {
+                text-transform: uppercase;
+                
+                ul.navigation {
+                    border-left: 4px solid #dedede;
+                    padding-left: 0.5em;
+                    
+                    li {
+                        display: inline;
+                        list-style-type: none;
+                        padding: 0 1em 0 0;
+                        
+                        a {
+                            color: #303030;
+                        }
+                    }
+                }
+            }
+        }
+
+        #main {
+            clear: both;
+            padding: 1em 0;
+            border-top: 1px solid #dedede;
+
+            article.hentry {
+                border-bottom: 1px #dedede solid;
+            }
+
+            article { 
+                pre {
+                    background: #000;
+                    color: #fff;
+                    padding: 0.5em;
+                    overflow: auto;
+                }
+
+                .gist-file pre {
+                    color: #000;
+                }
+
+                footer time {
+                    display: block;
+                    text-align: right;
+                }
+
+            }
+            
+            article.list {
+                clear: both;
+                border-bottom: 1px solid #dedede;
+                line-height: 2;
+
+                time {
+                    display: none;
+                }
+            }
+
+            .vcard {
+                padding: 10px 0;
+                margin: 1em 0 0 0;
+                clear: both;
+                
+                p {
+                    font-size: 16px;
+                    margin: 0 0 0.5em 0;
+                }
+
+                img {
+                    float: left;
+                    margin: 0 0.5em 0 0;
+                    border: 1px #dedede solid;
+                    padding: 3px;
+                }
+            }
+        }
+    }
+}
+
+
+@include at-breakpoint($break) {
+    body .container {
+        //@include susy-grid-background;
+        #header {
+            clear: both;
+            header {
+                @include span-columns(2);
+            }
+
+            nav {
+                line-height: 3em;
+                @include span-columns(6 omega);
+
+                ul.navigation {
+                    border-left: 1px solid #dedede;
+                    padding-left: 1em;
+                }
+            }
+        }
+        
+        #main {
+            article.list {
+                time { 
+                    display: block;
+                    float: left;
+                    width: 8em;
+                    color: #696969;
+                }
+            }
+        }
+    }
+}

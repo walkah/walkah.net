@@ -22,17 +22,18 @@
 </head>
 <body>
   <div class="container">
-    <header>
-      <h1 id="title"><a href="/">{{ site.title }}</a></h1>
-    </header>
-    <nav role="navigation">
-      <ul class="navigation">
-        <li><a href="/">Home</a></li>
-        <li><a href="/about.html">About</a></li>
-        <li><a href="/blog/">Blog</a></li>
-        <li><a href="/contact.html">Contact</a></li>
-      </ul>
-    </nav>
+    <div id="header">
+      <header>
+        <h1 id="title"><a href="/">{{ site.title }}</a></h1>
+      </header>
+      <nav role="navigation">
+        <ul class="navigation">
+          <li><a href="/about.html">About</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
     <section id="main">
       {{ content }}    
     </section>
