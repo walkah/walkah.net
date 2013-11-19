@@ -6,16 +6,27 @@ body {
 	  font-family: $serif;
 
     a { text-decoration: none; }
+    
+    h1 {
+        font-family: $typewriter;
+    }
+
+    img.left {
+        float: left;
+        margin: 0 1em 1em 0;
+    }
+    
+    img.right {
+        float: right;
+        margin: 0 0 1em 1em;
+    }
 
     .container {
         @include container($total-columns, $break);
-        //@include susy-grid-background;
 
         #header {
             header {
                 h1 {
-                    font-family: $typewriter;
-
                     a {
                         color: #343434;
                     }
@@ -64,6 +75,7 @@ body {
                 }
 
                 footer time {
+                    margin-bottom: 1em;
                     display: block;
                     text-align: right;
                 }
@@ -104,7 +116,6 @@ body {
 
 @include at-breakpoint($break) {
     body .container {
-        //@include susy-grid-background;
         #header {
             clear: both;
             header {
