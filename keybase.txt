@@ -1,0 +1,73 @@
+---
+layout: nil
+permalink: .well-known/keybase.txt
+---
+==================================================================
+https://keybase.io/walkah
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://walkah.net
+  * I am walkah (https://keybase.io/walkah) on keybase.
+  * I have a public key with fingerprint 2474 C3E1 0736 40BF C246  3E06 8896 FEC4 4D47 A81C
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "2474c3e1073640bfc2463e068896fec44d47a81c",
+            "host": "keybase.io",
+            "key_id": "8896FEC44D47A81C",
+            "uid": "657cd489cbbd36bd70833a31d1a90e00",
+            "username": "walkah"
+        },
+        "service": {
+            "hostname": "walkah.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1395874670,
+    "expire_in": 157680000,
+    "prev": "0c7fac0b5c4b2654f5ea9974d1743fdffbc2fa225db698f5e683922593f4f629",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+
+owGbwMvMwMVoI1RYeY0jbzLj6QNvkxiCjaOLq5WS8lMqlayqlbJTwVRaZl56alFB
+UWZeiZKVkpGJuUmycaqhgbmxmYlBUlqykYmZcaqBmYWFpVlaarKJSYqJeaKFYbKS
+jlJGfjFIB9CYpMTiVL3MfKAYkBOfmQIUBal3c3U2MXExMXe0MHQGypWCJcxMzZNT
+TCwsk5OSUozNklLMDSyMjRONDVMMEy0NUg0MQAqLU4vyEnNTgarLE3OyEzOUanWU
+gGJlmcmpIBeDLEaR18tLLQHqKyjKL8lPzs8BimeUlBRYgbSVVBaA1aUmxUNNiE/K
+zEsB+hmooSy1qDgzP0/JyhCoMrkkE2SkobGlqYW5iZm5gY5SakVBZlFqfCZIham5
+mYUBEICsSS0DGmmQbJ6WmGyQZJpskmRkZmqSZpqaaGlpbpJiaG5inJaSlpaUbJSW
+aGRkmpJkZmkBlDWzMLYEci2N00zSzIwslUB+KszLV7IyAzozMR1oZHFmel5iSWlR
+qlJtJ5MMCwMjFwMbKxMo1hi4OAVgcXl3B/9fyW09nMn7at2qrFKXPvjtcCdXr/eq
+n1FizksVU93dDxUnvSirvem2fYrZj8YZIhX7cnJVJj7ldc9z+b/DTthz5WvHisJv
+ezjNZbktk1h8lWJcmQt9uoJdWPZOn5C178fVh4mKc3enXpTk+X1HelfNc+9tzlNP
+hEZsZO8y+/qvWHQu74RF7lVTH9woPrV3hsB2r7uZLF1pX6JZe/Yvk6w8410iJdN8
+f+XxM0+OXmpKsdxQ4HGx8YbplaviDyW/Rr2f6ua0yPt0/b4J+Wmvyu++4j76VVdX
+O4+7b1PWplbmv0Hq6z5ZOy3SP3P0Z8B3oT/Gd6fF/LcJeLVowlOlmJ2fNNUNs9l9
+LBc827ClVeGqcozdnOrglcs89RX27LzdsZ71k8Xc1M/hf/T8BdIeVT88KumZfWX3
+YoW5v3n+6gUfquj/XDVFcpG/grVPxp1+P9bLU5xrzB86r+CYGSS71m9piNRUncxv
+k7cvdt54Ym+l24s1s/nW/d/+9XDO7LdLwrMNOb7N2PUnYOekO/t4JuwTrmraKXLG
+gk28velQltbJvmfSah0fV617kJSq0LfhtGrFfQfpVNl84y/+zF+cd627YnLuDsvZ
+ROXKSbLlk6uNN218oJ8Xq7Rqd66Qc46BYH3UgaiZnxp6JqTEFXjfmsywcF9bfL1u
+r5uSwE894Tu7Zh8udauxXasy3WXCJEVr04Q/H+oYuXR1nAxm1jIBAA==
+=gRdS
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/walkah
+
+==================================================================
