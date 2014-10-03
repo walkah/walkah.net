@@ -12,4 +12,4 @@ someone *please* explain to me why "<a href="http://slashdot.org/article.pl?sid=
 i mean, it's one thing that <a href="http://slashdot.org/">slashdot</a> doesn't do full-post RSS feeds or that they strip out all links (trying to eek every last advertising dollar). but, lately every post on slashdot worth reading is already in my <a href="http://ranchero.com/netnewswire">aggregator-of-the-week</a> (as a full post, usually). and now.... now i come home to this? what, am i to expect intriguing discussion in the comments?
 </p><p>
 sorry slashdot, it's been a fun ride... 
-</p><!-- technorati tags start --><p class="technorati">tags: <a href="http://technorati.com/tag/slashdot" rel="tag">slashdot</a>, <a href="http://technorati.com/tag/windows" rel="tag">windows</a>, <a href="http://technorati.com/tag/who cares" rel="tag">who cares</a></p><!-- technorati tags end -->
+</p>

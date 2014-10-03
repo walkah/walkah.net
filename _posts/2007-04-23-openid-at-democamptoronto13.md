@@ -9,7 +9,7 @@ tags:
 - democamptoronto
 - openid
 ---
-<p><img src="/files/democamptoronto_logo.gif" alt="DemoCampToronto"  class="right"/>Tomorrow night I've volunteered to subject myself to the scorn and ridicule of the local <a href="http://barcamp.org/TorCamp">TorCamp</a> community by sticking out my neck and doing a demo at <a href="http://barcamp.org/DemoCampToronto13">DemoCampToronto13</a>. Actually, it was <a href="http://davidcrow.ca/article/1504/democamptoronto13-april-24-2007-630pm">this post</a> by David Crow that inspired me, specifically:</p>
+<p>Tomorrow night I've volunteered to subject myself to the scorn and ridicule of the local <a href="http://barcamp.org/TorCamp">TorCamp</a> community by sticking out my neck and doing a demo at <a href="http://barcamp.org/DemoCampToronto13">DemoCampToronto13</a>. Actually, it was <a href="http://davidcrow.ca/article/1504/democamptoronto13-april-24-2007-630pm">this post</a> by David Crow that inspired me, specifically:</p>
 <blockquote>
 And if I have to sit through a demonstration of a tag cloud or web login form, so help me.
 </blockquote>

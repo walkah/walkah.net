@@ -7,7 +7,7 @@ tags:
 - mac os x
 ---
 <p>
-<a href="http://www.amazon.com/exec/obidos/tg/detail/-/B0002OZXG0/walkah-20"><img src="http://images.amazon.com/images/P/B0002OZXG0.01._SCTHUMBZZZ_.jpg" class="left" /></a>what a bummer, but it looks like it's official : my brand new iSight is dead. what's worse (for a guy like me) is i have absolutely no idea why it died, or how to avoid a similar fate for a replacement. all i know is this:
+<a href="http://www.amazon.com/exec/obidos/tg/detail/-/B0002OZXG0/walkah-20"><img src="http://images.amazon.com/images/P/B0002OZXG0.01._SCTHUMBZZZ_.jpg" alt="isight camera" class="left" /></a>what a bummer, but it looks like it's official : my brand new iSight is dead. what's worse (for a guy like me) is i have absolutely no idea why it died, or how to avoid a similar fate for a replacement. all i know is this:
 </p><p>
 when i first tried my iSight following it's arrival on Dec. 30th, i had the typical mac-user joy of just plugging it in and watching it work beautifully. super. so i fiddled with it for a while... experimenting with the different mounts, etc. we were away the 31st and 1st  - i left the isight attached to my laptop and (if i recall correctly) turned on (i.e. lens open).
 </p><p>

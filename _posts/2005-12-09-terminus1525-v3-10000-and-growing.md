@@ -17,4 +17,3 @@ all in, it seems to be working... the site has a renewed energy, and sometime in
 
 (oh, and did i mention, they're giving away <a href="http://www.terminus1525.ca/ipod">free ipods</a> too?)
 
-<a href="http://www.terminus1525.ca/"><img src="/files/ad_banner_468x60_en.gif" alt="terminus1525 : youth arts culture canada" /></a>

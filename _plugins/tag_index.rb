@@ -23,7 +23,7 @@ module Jekyll
       self.process(@name)
       # Read the YAML data from the layout page.
       self.read_yaml(File.join(base, '_layouts'), 'tag_feed.xml')
-      self.data['tag']    = tag
+      self.data['tag'] = tag
       # Set the title for this page.
       tag_title_prefix = site.config['tag_title_prefix'] || 'Posts Tagged &ldquo;'
       tag_title_suffix = site.config['tag_title_suffix'] || '&rdquo;'
@@ -41,8 +41,9 @@ module Jekyll
       if site.layouts.key? 'tag_index'
         dir = site.config['tag_dir'] || 'tag'
         site.tags.keys.each do |tag|
-          write_tag_index(site, File.join(dir, tag), tag)
-          write_tag_feed(site, File.join(dir, tag), tag)
+          dest_dir = File.join(dir, tag.gsub(/ /, '-'))
+          write_tag_index(site, dest_dir, tag)
+          write_tag_feed(site, dest_dir, tag)
         end
       end
     end
@@ -74,6 +75,7 @@ module Jekyll
     #
     def tag_links(tags)
       tags = tags.sort!.map do |item|
+        item.gsub!(/ /, '-')
         "<a class='tag' href='/tag/#{item}/'>#{item}</a>"
       end
       
