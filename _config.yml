@@ -7,7 +7,4 @@ highlighter: pygments
 lsi: true
 markdown: redcarpet
 permalink: blog/:title
-exclude: 
-  - Gemfile
-  - Gemfile.lock
-  - Rakefile
+exclude: [Gemfile, Gemfile.lock, vendor]

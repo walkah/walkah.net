@@ -4,7 +4,9 @@ before_install:
 - sudo apt-get install -qq libgsl0ldbl libgsl0-dev
 rvm:
 - 2.1.3
-script: jekyll build && htmlproof ./_site
+script: 
+- bundle exec jekyll build
+- bundle exec htmlproof ./_site
 notifications:
   slack:
     secure: JKGFMgZK8d97NbArV2cXUYP3LcHXk1MnTyd9QdVknMsFpmWhbthUr+seU9cpg0eSw2lGR406GyMsEawy44kKBF6Xw2ufOQq3T5vxMyhV7xGK2Am6Iaz/DfwkCQsTk3yYR9PaPG7689ZHurc3JXR4LzNiAtBc8o9F1Sb31JeM0IY=
