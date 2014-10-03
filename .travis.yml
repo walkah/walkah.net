@@ -1,0 +1,13 @@
+language: ruby
+rvm:
+- 2.1.3
+script: 
+- bundle exec jekyll build
+- bundle exec htmlproof ./_site
+notifications:
+  slack:
+    secure: Gq8bPNJaQ2HHJfnMQ5rK8QOh3Ww44wvhr+WzEKjBbnC5piRn7TLWDy95ED75a42vcxgX6eDnofV24wci2/IQ1p8rmGJNxpkPTN9SaFcc5GNT3RzdFTZPr744N7VvUS8aFZiNm4hcsdNlYRBd7fom6SA59ykkdaO5/4u2O0+dvkg=
+env:
+  global:
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+        
