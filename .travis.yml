@@ -4,13 +4,10 @@ before_install:
 - sudo apt-get install -qq libgsl0ldbl libgsl0-dev
 rvm:
 - 2.1.3
-script: 
-- bundle exec jekyll build
-- bundle exec htmlproof ./_site
+script: jekyll build && htmlproof ./_site
 notifications:
   slack:
-    secure: Gq8bPNJaQ2HHJfnMQ5rK8QOh3Ww44wvhr+WzEKjBbnC5piRn7TLWDy95ED75a42vcxgX6eDnofV24wci2/IQ1p8rmGJNxpkPTN9SaFcc5GNT3RzdFTZPr744N7VvUS8aFZiNm4hcsdNlYRBd7fom6SA59ykkdaO5/4u2O0+dvkg=
+    secure: JKGFMgZK8d97NbArV2cXUYP3LcHXk1MnTyd9QdVknMsFpmWhbthUr+seU9cpg0eSw2lGR406GyMsEawy44kKBF6Xw2ufOQq3T5vxMyhV7xGK2Am6Iaz/DfwkCQsTk3yYR9PaPG7689ZHurc3JXR4LzNiAtBc8o9F1Sb31JeM0IY=
 env:
   global:
-    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
-        
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
