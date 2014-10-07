@@ -5,3 +5,6 @@ gem 'narray', :git => "https://github.com/tonyarnold/narray"
 gem 'gsl', :git => "https://github.com/tonyarnold/rb-gsl"
 
 gem 'html-proofer'
+
+gem 'bourbon'
+gem 'neat'

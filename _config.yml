@@ -8,3 +8,6 @@ lsi: true
 markdown: redcarpet
 permalink: blog/:title
 exclude: [Gemfile, Gemfile.lock, vendor]
+gems: [bourbon, neat]
+sass:
+  style: compressed
