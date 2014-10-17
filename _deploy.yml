@@ -1,0 +1,13 @@
+method: rsync
+site_dir: _site 
+
+user: walkah@walkah.net
+remote_path: /var/www/walkah.net
+delete: true
+
+# flags: -rltDvz                          # Modify flags as necessary to suit your hosting setup
+# port:                                   # If your host requires a non standard port
+# exclude:                                # Path to file containing list of files to exclude
+# exclude-file:                           # Path to file containing list of files to exclude
+# include:                                # Path to file containing list of files to include
+# include-file:                           # Path to file containing list of files to include
