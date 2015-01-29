@@ -1,5 +1,8 @@
 ---
 layout: {{ layout }}
 title: {{ title }}
+summary: {{ summary }}
+image: {{ image }}
 date: {{ date }}
+tags: {{ tags }}
 ---

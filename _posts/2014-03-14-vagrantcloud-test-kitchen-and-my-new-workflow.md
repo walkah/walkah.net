@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Vagrantcloud, Test Kitchen and My New Workflow"
+summary: On my new devops workflow using test kitchen and vagrantcloud
 tags:
   - vagrant
   - chef
