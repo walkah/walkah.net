@@ -11,3 +11,7 @@ exclude: [Gemfile, Gemfile.lock, vendor]
 gems: [bourbon, neat]
 sass:
   style: compressed
+
+# octopress settings
+post_ext: md
+page_ext: html
