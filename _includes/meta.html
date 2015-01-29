@@ -1,0 +1,22 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<meta name="author" content="{{ site.author }}" />
+{% if page.summary %}
+<meta name="description" content="{{ page.summary }}" />
+{% else %}
+<meta name="description" content="{{ site.description }}" />
+{% endif %}
+<meta property="og:site_name" content="{{ site.title }}"/>
+<meta property="og:type" content="blog"/>
+<meta name="og:url" content="{{ site.url }}{{ page.url }}">
+{% if page.title %}<meta property="og:title" content="{{ page.title }}"/>{% endif %}
+{% if page.summary %}<meta property="og:description" content="{{ page.summary }}"/>{% endif %}
+{% if page.image %}<meta property="og:image" content=""/>{% endif %}
+<meta name="twitter:card" content="summary">
+<meta name="twitter:creator" content="@walkah">
+<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+<meta name="twitter:title" content="{{ page.title }}">
+{% if page.summary %}<meta name="twitter:description" content="{{ page.summary }}">{% endif %}
+{% if page.image %}<meta name="twitter:image" content="{{ page.image }}">{% endif %}
+<meta name="microid" content="mailto+http:sha1:d1026e95deb9e779de34648de0c7e2c83e1d2a73" />

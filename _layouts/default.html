@@ -1,20 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8">
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-  <meta name="description" content="{{ site.description }}">
-  <meta name="author" content="{{ site.author }}">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+  {% include meta.html %}
 
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href='http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css'>  
+  <link href='http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css'>
   <link href="//netdna.bootstrapcdn.com/font-awesome/latest/css/font-awesome.css" rel="stylesheet">
-  
+
   <link rel="shortcut icon" href="/favicon.ico" >
   <link href="/atom.xml" rel="alternate" title="{{site.title}}" type="application/atom+xml">
-
-  <meta name="microid" content="mailto+http:sha1:d1026e95deb9e779de34648de0c7e2c83e1d2a73" />
 </head>
 <body>
   <div class="container">
@@ -31,7 +26,7 @@
       </nav>
     </div>
     <section id="main">
-      {{ content }}    
+      {{ content }}
     </section>
     <footer>
       &copy; 2002-{{ site.time | date:"%Y" }} {{ site.author }}
