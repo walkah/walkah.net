@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: forty three
 created: 1126931882
-permalink: blog/walkah/forty-three
-tags: 
+permalink: blog/walkah/forty-three/
+tags:
 - geek
 ---
 <p>... as in <a href="http://www.43things.com/" title="43things">things</a>, <a href="http://www.43places.com/" title="43places">places</a> and now <a href="http://www.43people.com/" title="43people">people</a>. let's face it, lists are in and I'm totally hooked.</p>

@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: dead iSight
 created: 1105026996
-permalink: blog/walkah/dead-isight
-tags: 
+permalink: blog/walkah/dead-isight/
+tags:
 - mac os x
 ---
 <p>

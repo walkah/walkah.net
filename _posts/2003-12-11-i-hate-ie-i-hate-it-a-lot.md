@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: i hate IE. i hate it a lot.
 created: 1071187980
-permalink: blog/walkah/i-hate-ie-i-hate-it-a-lot
-tags: 
+permalink: blog/walkah/i-hate-ie-i-hate-it-a-lot/
+tags:
 - site
 ---
 ... on all platforms, all versions. over the past 24 hours, i have wasted waaaay too much time trying to fix and/or work around stupid stupid things that internet explorer does.

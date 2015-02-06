@@ -1,11 +1,9 @@
---- 
+---
 layout: post
-title: |
-  tax... er playoff season!
-
+title: tax... er playoff season!
 created: 1049945400
-permalink: blog/walkah/tax-er-playoff-season
-tags: []
+permalink: blog/walkah/tax-er-playoff-season/
+tags:
 
 ---
 <!--timestamp:1049945400:-->

@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: "Harvard Joomla site hacked: things to learn?"
 created: 1203456343
-permalink: blog/walkah/harvard-joomla-site-hacked-things-learn
-tags: 
+permalink: blog/walkah/harvard-joomla-site-hacked-things-learn/
+tags:
 - drupal
 - openid
 - security

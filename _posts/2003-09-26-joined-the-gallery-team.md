@@ -1,10 +1,8 @@
---- 
+---
 layout: post
-title: |
-  joined the gallery team
-
+title: joined the gallery team
 created: 1064595335
-permalink: blog/walkah/joined-the-gallery-team
+permalink: blog/walkah/joined-the-gallery-team/
 tags: []
 
 ---

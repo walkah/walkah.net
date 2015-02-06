@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: FluidApp, Menu Extra and iPhone sites
 created: 1211996105
-permalink: blog/walkah/fluidapp-menu-extra-and-iphone-sites
-tags: 
+permalink: blog/walkah/fluidapp-menu-extra-and-iphone-sites/
+tags:
 - mac os x
 - fluidapp
 - iphone

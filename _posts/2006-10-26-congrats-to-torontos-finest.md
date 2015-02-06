@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: congrats to toronto's finest!
 created: 1161915749
-permalink: blog/walkah/congrats-torontos-finest
-tags: 
+permalink: blog/walkah/congrats-torontos-finest/
+tags:
 - toronto
 - wirelesstoronto
 - barcamp

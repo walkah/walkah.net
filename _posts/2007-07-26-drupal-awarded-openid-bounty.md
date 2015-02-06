@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Drupal awarded OpenID Bounty!
 created: 1185478556
-permalink: blog/walkah/drupal-awarded-openid-bounty
-tags: 
+permalink: blog/walkah/drupal-awarded-openid-bounty/
+tags:
 - drupal
 - openid
 - oidf

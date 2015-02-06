@@ -1,8 +1,8 @@
---- 
+---
 layout: post
 title: happy belated new year
 created: 1073355060
-permalink: blog/walkah/happy-belated-new-year
+permalink: blog/walkah/happy-belated-new-year/
 tags: []
 
 ---

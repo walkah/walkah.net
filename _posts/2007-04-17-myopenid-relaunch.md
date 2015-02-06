@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: myOpenID relaunch
 created: 1176832090
-permalink: blog/walkah/myopenid-relaunch
-tags: 
+permalink: blog/walkah/myopenid-relaunch/
+tags:
 - openid
 - security
 - janrain

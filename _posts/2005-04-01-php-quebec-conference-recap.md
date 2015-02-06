@@ -1,16 +1,16 @@
---- 
+---
 layout: post
 title: php quebec conference recap
 created: 1112373860
-permalink: blog/walkah/php-quebec-conference-recap
-tags: 
+permalink: blog/walkah/php-quebec-conference-recap/
+tags:
 - geek
 - drupal
 ---
 <p>
-i'm back home and rested now after  <a href="http://conf.phpquebec.com/en/" title="PHP Quebec Conference 2005">PHP Quebec</a> - where I did a presentation on <a href="http://drupal.org/" title="drupal content management platform">drupal</a>'s distributed authentication and <a href="http://www.sxip.com/" title="SXIP - Identity 2.0">sxip</a>. i have to admit, i'm still pretty new to the whole conference going / speaking scene - but the time (while short and fast) was enjoyable - thanks to the php quebec organizers for a good show. 
+i'm back home and rested now after  <a href="http://conf.phpquebec.com/en/" title="PHP Quebec Conference 2005">PHP Quebec</a> - where I did a presentation on <a href="http://drupal.org/" title="drupal content management platform">drupal</a>'s distributed authentication and <a href="http://www.sxip.com/" title="SXIP - Identity 2.0">sxip</a>. i have to admit, i'm still pretty new to the whole conference going / speaking scene - but the time (while short and fast) was enjoyable - thanks to the php quebec organizers for a good show.
 </p><p>
-a couple personal highlights : 
+a couple personal highlights :
 </p><ul>
 <li>caught <a href="http://www.lerdorf.com" title="Rasmus Lerdorf">rasmus</a>' presentation - he's doing some pretty cool stuff over at yahoo! - and i finally got to shake his hand. rasmus and I are very loosely linked by friends of friends in the toronto area, and yet i've never actually had a chance to meet him (largely 'cause he lives in california).</li>
 <li>met <a href="http://www.stevesgallery.com/" title="Steve Mansour">steve mansour</a> - who was doing photography for the conference - and is a big drupal fan. he was nice enough to take this poor little anglophone under his wing. we got to talk a lot about some of the cool stuff he's up to using drupal - he's also heavily into the community wireless scene in montreal. very cool.</li>

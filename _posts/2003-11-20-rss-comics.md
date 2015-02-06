@@ -1,8 +1,8 @@
---- 
+---
 layout: post
 title: rss comics
 created: 1069365660
-permalink: blog/walkah/rss-comics
+permalink: blog/walkah/rss-comics/
 tags: []
 
 ---

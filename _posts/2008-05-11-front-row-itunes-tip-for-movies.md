@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Front Row/iTunes tip for Movies
 created: 1210524130
-permalink: blog/walkah/front-rowitunes-tip-movies
-tags: 
+permalink: blog/walkah/front-rowitunes-tip-movies/
+tags:
 - movies
 - front row
 - video

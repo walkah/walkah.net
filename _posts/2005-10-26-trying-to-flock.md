@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: trying to flock
 created: 1130305363
-permalink: blog/walkah/trying-to-flock
-tags: 
+permalink: blog/walkah/trying-to-flock/
+tags:
 - drupal
 - flock
 - firefox
@@ -20,6 +20,6 @@ anyway guys, keep up the good work... and if you ever have questions about ensur
 
 OH - speaking of flock. so here's an off the wall rumour that is based on absolutely no real information. *but* it's no mistake that Y! (<em>not</em> google) is the default search engine for flock. factor in the out-of-the-box <a href="http://www.flickr.com/">flickr</a> integration, mix in constant rumours of the "google browser" and ... well... are we looking at a future Y! acquisition? who knows perhaps throw in some <a href="http://wiki.mozilla.org/Calendar:Lightning">lightning</a> and <a href="http://www.upcoming.org/">upcoming.org</a> integration and away you go.
 
-then, once we become <a href="http://www.bryght.com/" title="Bryght community content hosting">BrY!ght</a> - we'll all be co-workers. 
+then, once we become <a href="http://www.bryght.com/" title="Bryght community content hosting">BrY!ght</a> - we'll all be co-workers.
 
 er. i'll stop now ;)

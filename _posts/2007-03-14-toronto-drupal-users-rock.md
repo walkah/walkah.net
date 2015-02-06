@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Toronto drupal users rock!
 created: 1173884450
-permalink: blog/walkah/toronto-drupal-users-rock
-tags: 
+permalink: blog/walkah/toronto-drupal-users-rock/
+tags:
 - drupal
 - toronto
 ---

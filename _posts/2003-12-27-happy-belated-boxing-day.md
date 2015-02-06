@@ -1,8 +1,8 @@
---- 
+---
 layout: post
 title: happy belated boxing day
 created: 1072554900
-permalink: blog/walkah/happy-belated-boxing-day
+permalink: blog/walkah/happy-belated-boxing-day/
 tags: []
 
 ---

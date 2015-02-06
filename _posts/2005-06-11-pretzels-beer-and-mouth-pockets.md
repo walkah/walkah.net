@@ -1,8 +1,8 @@
---- 
+---
 layout: post
 title: pretzels beer and "mouth pockets"
 created: 1118530928
-permalink: blog/walkah/pretzels-beer-and-mouth-pockets
+permalink: blog/walkah/pretzels-beer-and-mouth-pockets/
 tags: []
 
 ---

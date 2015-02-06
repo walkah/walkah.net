@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: safari gets contentEditable
 created: 1088956478
-permalink: blog/walkah/safari-gets-contenteditable
-tags: 
+permalink: blog/walkah/safari-gets-contenteditable/
+tags:
 - drupal
 - mac os x
 ---

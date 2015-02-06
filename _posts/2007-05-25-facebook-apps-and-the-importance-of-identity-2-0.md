@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Facebook apps and the importance of Identity 2.0
 created: 1180139549
-permalink: blog/walkah/facebook-apps-and-importance-identity-2-0
-tags: 
+permalink: blog/walkah/facebook-apps-and-importance-identity-2-0/
+tags:
 - openid
 - identity20
 - facebook
@@ -18,4 +18,4 @@ tags:
 <p><img src="http://walkah.net/sites/walkah.net/files/facebook-twitter.png" alt="facebook twitter" /></p>
 <p>To enable <a href="http://www.twitter.com/">twitter</a> support (as Facebook tells me 12 of my friends have already done), I have to give facebook my twitter account details?!</p>
 <p>Now, the point of this post isn't to harp on Facebook. It's a great service and I use it and enjoy it. And really, they don't have a choice (do they?)- they want to offer great features and there needs to be some way to link user accounts across these multiple services. This is exactly (one of) the problems that <a href="http://identity20.com/">Identity 2.0</a> aims to solve.</p>
-<p>The problem here is that we, the users, don't own our identity on the internet. There are walled gardens and data silos of information about us. Twitter and Facebook both have directory entries - a username and a password - that they use to identify me but there is no correlation that the directory entries match. I can't verify that they do without giving one system <em>full access</em> to the other to verify that the username on each system actually correspond to the same person. <strong>This</strong> is where we need user-centric identity. This is "why <a href="http://openid.net/">OpenID</a>".</p> 
+<p>The problem here is that we, the users, don't own our identity on the internet. There are walled gardens and data silos of information about us. Twitter and Facebook both have directory entries - a username and a password - that they use to identify me but there is no correlation that the directory entries match. I can't verify that they do without giving one system <em>full access</em> to the other to verify that the username on each system actually correspond to the same person. <strong>This</strong> is where we need user-centric identity. This is "why <a href="http://openid.net/">OpenID</a>".</p>

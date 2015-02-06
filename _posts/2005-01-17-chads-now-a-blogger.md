@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: chad's now a "blogger"
 created: 1105974461
-permalink: blog/walkah/chads-now-a-blogger
-tags: 
+permalink: blog/walkah/chads-now-a-blogger/
+tags:
 - family
 - drupal
 ---

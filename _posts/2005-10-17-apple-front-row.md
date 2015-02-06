@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: apple front row
 created: 1129588774
-permalink: blog/walkah/apple-front-row
-tags: 
+permalink: blog/walkah/apple-front-row/
+tags:
 - mac os x
 - gadgets
 - apple

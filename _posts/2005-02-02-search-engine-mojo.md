@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: search engine mojo
 created: 1107370760
-permalink: blog/walkah/search-engine-mojo
-tags: 
+permalink: blog/walkah/search-engine-mojo/
+tags:
 - geek
 ---
 <p>

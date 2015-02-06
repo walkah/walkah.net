@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: what? huh? new site?
 created: 1048918620
-permalink: blog/walkah/what-huh-new-site
-tags: 
+permalink: blog/walkah/what-huh-new-site/
+tags:
 - site
 ---
 <!--timestamp:1048918620:-->

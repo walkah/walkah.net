@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Google Gears for Safari == Offline SSBs!
 created: 1219805900
-permalink: blog/walkah/google-gears-safari-offline-ssbs
-tags: 
+permalink: blog/walkah/google-gears-safari-offline-ssbs/
+tags:
 - google
 - fluidapp
 - gears

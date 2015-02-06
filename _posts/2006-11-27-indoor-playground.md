@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Indoor Playground
 created: 1164665605
-permalink: blog/walkah/indoor-playground
-tags: 
+permalink: blog/walkah/indoor-playground/
+tags:
 - toronto
 - coworking
 - innovation commons

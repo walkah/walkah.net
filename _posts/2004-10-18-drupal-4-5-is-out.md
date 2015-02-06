@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: drupal 4.5 is out!
 created: 1098128419
-permalink: blog/walkah/drupal-4-5-is-out
-tags: 
+permalink: blog/walkah/drupal-4-5-is-out/
+tags:
 - drupal
 ---
 <p>

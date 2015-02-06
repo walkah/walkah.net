@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: DrupalCon Barcelona wrap-up
 created: 1190692568
-permalink: blog/walkah/drupalcon-barcelona-wrap
-tags: 
+permalink: blog/walkah/drupalcon-barcelona-wrap/
+tags:
 - drupal
 - openid
 - barcelona

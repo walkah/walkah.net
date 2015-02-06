@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Mac OS X from the command line
 created: 1186083889
-permalink: blog/walkah/mac-os-x-command-line
-tags: 
+permalink: blog/walkah/mac-os-x-command-line/
+tags:
 - mac os x
 - cli
 - adduser
@@ -13,7 +13,7 @@ tags:
 <pre>
 # dscl / -create /Users/portingunix
 # dscl / -create /Users/portingunix UserShell /bin/bash
-# dscl / -create /Users/portingunix RealName "Porting Unix 
+# dscl / -create /Users/portingunix RealName "Porting Unix
 # dscl / -create /Users/portingunix UniqueID 503
 # dscl / -create /Users/portingunix PrimaryGroupID 1000
 # dscl / -create /Users/portingunix NFSHomeDirectory /Local/Users/portingunix

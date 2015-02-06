@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: toronto drupal user meetup 3.0
 created: 1140682330
-permalink: blog/walkah/toronto-drupal-user-meetup-3-0
-tags: 
+permalink: blog/walkah/toronto-drupal-user-meetup-3-0/
+tags:
 - drupal
 - toronto
 ---

@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Living in the browser
 created: 1253659796
-permalink: blog/walkah/living-browser
-tags: 
+permalink: blog/walkah/living-browser/
+tags:
 - firefox
 - gtd
 - lifehacks
@@ -17,13 +17,13 @@ I'm living in the browser.
 
 OK, not *entirely*. But my currently running applications include: [Firefox](http://www.mozilla.com/en-US/firefox/personal.html), [Emacs](http://www.gnu.org/software/emacs/), Terminal, [Adium](http://adium.im/) and iTunes (sorry, songbird).
 
-The frequent, attentive readers among you know that I've been tinkering with "Single Site Browsers" lately as part of this experiment - because, if I'm using Firefox for development - I don't want "other stuff" cluttering that. Well, a recent [article on lifehacker](http://lifehacker.com/5344395/icon+only-permatabs-collection-streamlines-your-minimal-gmail-google-reader-tabs) made me rethink my approach. 
+The frequent, attentive readers among you know that I've been tinkering with "Single Site Browsers" lately as part of this experiment - because, if I'm using Firefox for development - I don't want "other stuff" cluttering that. Well, a recent [article on lifehacker](http://lifehacker.com/5344395/icon+only-permatabs-collection-streamlines-your-minimal-gmail-google-reader-tabs) made me rethink my approach.
 
 The article outlines a way to have "permanent" tabs(i.e. tabs that automatically reload when you restart yoru browser) that only appear as a favicon (thus saving screen real estate). My current lineup looks like this :
 
 ![permatabs](http://walkah.net/sites/walkah.net/files/perma-favicon-tabs.png)
 
-That's gmail (personal and [work](http://www.lullabot.com/)), [remember the milk](http://www.rememberthemilk.com/), google voice and google reader. 
+That's gmail (personal and [work](http://www.lullabot.com/)), [remember the milk](http://www.rememberthemilk.com/), google voice and google reader.
 
 For the last few weeks, I've been trying out this system and have found little reason to want to switch away from it. There are some properties that appeal to me: my application list is entirely cross-platform (substitute pidgin for adium) and free software. Application management, setup and configuration is minimal and I have to do very little application switching throughout the day. In fact, with my external monitor, I can fit everything on one screen where I can see it.
 

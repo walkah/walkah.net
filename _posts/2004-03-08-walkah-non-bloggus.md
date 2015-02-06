@@ -1,8 +1,8 @@
---- 
+---
 layout: post
 title: walkah non bloggus
 created: 1078764896
-permalink: blog/walkah/walkah-non-bloggus
+permalink: blog/walkah/walkah-non-bloggus/
 tags: []
 
 ---

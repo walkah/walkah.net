@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: upcoming.org rocks
 created: 1114574795
-permalink: blog/walkah/upcoming-org-rocks
-tags: 
+permalink: blog/walkah/upcoming-org-rocks/
+tags:
 - geek
 - drupal
 - upcoming

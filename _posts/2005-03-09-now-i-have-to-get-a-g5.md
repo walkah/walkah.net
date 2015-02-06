@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: now i *have* to get a g5
 created: 1110382228
-permalink: blog/walkah/now-i-have-to-get-a-g5
-tags: 
+permalink: blog/walkah/now-i-have-to-get-a-g5/
+tags:
 - geek
 - mac os x
 - linux

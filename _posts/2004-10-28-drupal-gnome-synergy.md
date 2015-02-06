@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: drupal + gnome synergy
 created: 1099007883
-permalink: blog/walkah/drupal-gnome-synergy
-tags: 
+permalink: blog/walkah/drupal-gnome-synergy/
+tags:
 - drupal
 - gnome
 ---

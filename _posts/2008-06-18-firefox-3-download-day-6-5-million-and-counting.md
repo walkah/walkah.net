@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: "Firefox 3 Download Day: 6.5 million and counting!"
 created: 1213795687
-permalink: blog/walkah/firefox-3-download-day-65-million-and-counting
-tags: 
+permalink: blog/walkah/firefox-3-download-day-65-million-and-counting/
+tags:
 - firefox
 - toronto
 ---

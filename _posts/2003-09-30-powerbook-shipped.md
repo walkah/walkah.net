@@ -1,10 +1,8 @@
---- 
+---
 layout: post
-title: |
-  powerbook shipped
-
+title: powerbook shipped
 created: 1064933856
-permalink: blog/walkah/powerbook-shipped
+permalink: blog/walkah/powerbook-shipped/
 tags: []
 
 ---

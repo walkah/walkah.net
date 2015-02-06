@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: XRDS-Simple for Drupal
 created: 1212553000
-permalink: blog/walkah/xrdssimple-drupal
-tags: 
+permalink: blog/walkah/xrdssimple-drupal/
+tags:
 - drupal
 - diso
 - xrds

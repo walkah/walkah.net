@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: iTMS does video
 created: 1115734114
-permalink: blog/walkah/itms-does-video
-tags: 
+permalink: blog/walkah/itms-does-video/
+tags:
 - mac os x
 ---
 <p>
@@ -11,7 +11,7 @@ So, it looks like <a href="http://www.appleinsider.com/article.php?id=1062" id="
 </p><blockquote>
 These videos are simply animated shorts rather than music videos - and in this particular instance - do not utilize any Digital Rights Management.
 </blockquote><p>
-One would have to think that this is a first step in a move toward distributing movies, etc, via iTunes - which makes the often rumoured 'iHome' machine look much more probable. 
+One would have to think that this is a first step in a move toward distributing movies, etc, via iTunes - which makes the often rumoured 'iHome' machine look much more probable.
 </p><p>
-It's also one more reason for me to re-consider picking up a <a href="http://www.apple.com/macmini/">mac mini</a> for the living room. I've sold Sandi on the beauty of <a href="http://www.btefnet.net/">tv torrents</a> - but the dance i do to hook my powerbook up to the TV is less than ideal, and means that my powerbook has to be available.... ah, if only money grew on trees. 
+It's also one more reason for me to re-consider picking up a <a href="http://www.apple.com/macmini/">mac mini</a> for the living room. I've sold Sandi on the beauty of <a href="http://www.btefnet.net/">tv torrents</a> - but the dance i do to hook my powerbook up to the TV is less than ideal, and means that my powerbook has to be available.... ah, if only money grew on trees.
 </p>

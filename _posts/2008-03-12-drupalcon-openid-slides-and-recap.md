@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: "DrupalCon: OpenID slides and recap"
 created: 1205344402
-permalink: blog/walkah/drupalcon-openid-slides-and-recap
-tags: 
+permalink: blog/walkah/drupalcon-openid-slides-and-recap/
+tags:
 - drupal
 - conference
 - openid

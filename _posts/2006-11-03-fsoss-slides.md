@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: FSOSS slides
 created: 1162589586
-permalink: blog/walkah/fsoss-slides
-tags: 
+permalink: blog/walkah/fsoss-slides/
+tags:
 - drupal
 - fsoss
 - oss

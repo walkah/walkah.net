@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: DrupalCon Szeged is coming
 created: 1218730010
-permalink: blog/walkah/drupalcon-szeged-coming
-tags: 
+permalink: blog/walkah/drupalcon-szeged-coming/
+tags:
 - drupal
 - drupalcon
 - drupalconszeged2008

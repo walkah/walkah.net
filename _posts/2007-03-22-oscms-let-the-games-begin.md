@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: "OSCMS : let the games begin"
 created: 1174575728
-permalink: blog/walkah/oscms-let-games-begin
-tags: 
+permalink: blog/walkah/oscms-let-games-begin/
+tags:
 - drupal
 - openid
 - "2007"

@@ -1,8 +1,8 @@
---- 
+---
 layout: post
 title: Addition kills children
 created: 1191551818
-permalink: blog/walkah/addition-kills-children
+permalink: blog/walkah/addition-kills-children/
 tags: []
 
 ---

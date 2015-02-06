@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: dear santa...
 created: 1102528473
-permalink: blog/walkah/dear-santa
-tags: 
+permalink: blog/walkah/dear-santa/
+tags:
 - family
 ---
 <p>

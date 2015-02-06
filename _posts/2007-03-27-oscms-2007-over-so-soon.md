@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: "OSCMS 2007: over so soon?"
 created: 1174970153
-permalink: blog/walkah/oscms-2007-over-so-soon
-tags: 
+permalink: blog/walkah/oscms-2007-over-so-soon/
+tags:
 - drupal
 - oscms
 - oscms2007

@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Drupal Camp Toronto 2008
 created: 1210608184
-permalink: blog/walkah/drupal-camp-toronto-2008
-tags: 
+permalink: blog/walkah/drupal-camp-toronto-2008/
+tags:
 - drupal
 - toronto
 - drupalcamp

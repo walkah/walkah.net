@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: drupal at sxsw
 created: 1218822693
-permalink: blog/walkah/drupal-sxsw
-tags: 
+permalink: blog/walkah/drupal-sxsw/
+tags:
 - drupal
 - sxsw
 ---

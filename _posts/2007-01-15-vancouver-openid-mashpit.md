@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Vancouver OpenID Mashpit
 created: 1168839952
-permalink: blog/walkah/vancouver-openid-mashpit
-tags: 
+permalink: blog/walkah/vancouver-openid-mashpit/
+tags:
 - drupal
 - vancouver
 - openid

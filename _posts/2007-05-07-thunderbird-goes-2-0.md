@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Thunderbird goes 2.0
 created: 1178591644
-permalink: blog/walkah/thunderbird-goes-2-0
-tags: 
+permalink: blog/walkah/thunderbird-goes-2-0/
+tags:
 - mozilla
 - thunderbird
 - growl

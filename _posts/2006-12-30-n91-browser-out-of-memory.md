@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: n91 browser out of memory?
 created: 1167499173
-permalink: blog/walkah/n91-browser-out-memory
-tags: 
+permalink: blog/walkah/n91-browser-out-memory/
+tags:
 - nokia
 - series60
 - browser

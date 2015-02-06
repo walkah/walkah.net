@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: 5 things about me
 created: 1166819656
-permalink: blog/walkah/5-things-about-me
-tags: 
+permalink: blog/walkah/5-things-about-me/
+tags:
 - meme
 - 5things
 ---

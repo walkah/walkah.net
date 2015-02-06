@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: gallery 2 beta 2 (holy hand grenade) released!
 created: 1113417376
-permalink: blog/walkah/gallery-2-beta-2-holy-hand-grenade-released
-tags: 
+permalink: blog/walkah/gallery-2-beta-2-holy-hand-grenade-released/
+tags:
 - gallery
 ---
 <p>

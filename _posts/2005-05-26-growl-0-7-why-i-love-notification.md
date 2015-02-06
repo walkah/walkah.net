@@ -1,15 +1,15 @@
---- 
+---
 layout: post
 title: "growl 0.7: why I love notification"
 created: 1117117388
-permalink: blog/walkah/growl-0-7-why-i-love-notification
-tags: 
+permalink: blog/walkah/growl-0-7-why-i-love-notification/
+tags:
 - mac os x
 ---
 <p>
 the longer I go using my powerbook as my primary (only) desktop machine, the deeper certain things become ingrained in my daily routines. one big example is <a href="http://growl.info/" title="growl homepage">growl</a>. so, in honour of the latest release (0.7) i thought i'd publicly exclaim just how much i like having growl.
 </p><p>
-for those that haven't tasted this particular kool-aid: growl provides a framework so that applications (on Mac OS X) can create little popups when "things happen". so, some examples are : when the song changes in <a href="http://www.apple.com/itunes/" title="Apple iTunes">iTunes</a>, new mail arrives, or someone says something in <a href="http://www.apple.com/ichat/">iChat</a> or <a href="http://www.adiumx.com/">Adium</a>. 
+for those that haven't tasted this particular kool-aid: growl provides a framework so that applications (on Mac OS X) can create little popups when "things happen". so, some examples are : when the song changes in <a href="http://www.apple.com/itunes/" title="Apple iTunes">iTunes</a>, new mail arrives, or someone says something in <a href="http://www.apple.com/ichat/">iChat</a> or <a href="http://www.adiumx.com/">Adium</a>.
 </p><p>
 the interesting thing is that human brains are *really* good at recognizing patterns, and determining (almost instantly) relative importance. so, without really looking up from the code, email or blog entry i'm currently writing, i can stay on top of other things going on - without having to switch applications, etc.
 </p><p>

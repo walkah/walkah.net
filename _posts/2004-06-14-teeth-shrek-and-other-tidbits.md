@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: teeth, shrek and other tidbits
 created: 1087260050
-permalink: blog/walkah/teeth-shrek-and-other-tidbits
-tags: 
+permalink: blog/walkah/teeth-shrek-and-other-tidbits/
+tags:
 - family
 ---
 haven't done a good family update for a while (trying to scare people off with all the geek talk), but here goes:

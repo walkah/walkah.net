@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: OpenID Mashpit Vancouver Recap
 created: 1169153508
-permalink: blog/walkah/openid-mashpit-vancouver-recap
-tags: 
+permalink: blog/walkah/openid-mashpit-vancouver-recap/
+tags:
 - drupal
 - vancouver
 - openid

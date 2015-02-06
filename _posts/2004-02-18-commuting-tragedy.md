@@ -1,8 +1,8 @@
---- 
+---
 layout: post
 title: commuting tragedy
 created: 1077118933
-permalink: blog/walkah/commuting-tragedy
+permalink: blog/walkah/commuting-tragedy/
 tags: []
 
 ---

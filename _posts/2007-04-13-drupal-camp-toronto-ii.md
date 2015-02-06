@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Drupal Camp Toronto II
 created: 1176489655
-permalink: blog/walkah/drupal-camp-toronto-ii
-tags: 
+permalink: blog/walkah/drupal-camp-toronto-ii/
+tags:
 - drupal
 - toronto
 - drupalcamp

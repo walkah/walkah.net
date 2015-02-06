@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: loving thunderbird
 created: 1131566400
-permalink: blog/walkah/loving-thunderbird
-tags: 
+permalink: blog/walkah/loving-thunderbird/
+tags:
 - mozilla
 - thunderbird
 ---

@@ -1,13 +1,13 @@
---- 
+---
 layout: post
 title: front row download
 created: 1133465138
-permalink: blog/front-row-download
-tags: 
+permalink: blog/front-row-download/
+tags:
 - apple
 - front row
 ---
-<a href="http://www.apple.com/support/downloads/frontrow101.html">it's official</a>! 
+<a href="http://www.apple.com/support/downloads/frontrow101.html">it's official</a>!
 
 hrm. i may well be moving my mini to the living room. thanks, apple.
 

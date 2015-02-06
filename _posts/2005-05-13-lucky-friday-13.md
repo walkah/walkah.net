@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: lucky friday 13
 created: 1116006210
-permalink: blog/walkah/lucky-friday-13
-tags: 
+permalink: blog/walkah/lucky-friday-13/
+tags:
 - geek
 ---
 <p>
@@ -13,7 +13,7 @@ nobody else probably noticed - but the machine that this site (along with all my
 </p><p>
 happy friday the 13th :(
 </p><p>
-why was I sweating... well, 'cause I seem to have neglected to backup this little server for ... well... a while. i know, i know... i should know better. and i do. a case of the shoemaker's son, i guess. 
+why was I sweating... well, 'cause I seem to have neglected to backup this little server for ... well... a while. i know, i know... i should know better. and i do. a case of the shoemaker's son, i guess.
 </p><p>
 anyway, just as i was about to crawl under the bed and spend the rest of the day crying, I saw a blessed ping response from the server. the good folks at <a href="http://www.eicat.ca/">eicat</a> (where this box is hosted) were able to restore the machine. no data loss, life is good.
 </p><p>

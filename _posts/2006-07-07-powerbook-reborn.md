@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: powerbook reborn
 created: 1152318504
-permalink: blog/walkah/powerbook-reborn
-tags: 
+permalink: blog/walkah/powerbook-reborn/
+tags:
 - mac os x
 - apple
 - powerbook

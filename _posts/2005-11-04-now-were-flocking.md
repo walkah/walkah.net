@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: now we're flocking!
 created: 1131080400
-permalink: blog/walkah/now-were-flocking
-tags: 
+permalink: blog/walkah/now-were-flocking/
+tags:
 - drupal
 - flock
 - firefox

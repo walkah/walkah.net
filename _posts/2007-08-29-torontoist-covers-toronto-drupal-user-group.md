@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Torontoist covers Toronto Drupal User Group
 created: 1188442398
-permalink: blog/walkah/torontoist-covers-toronto-drupal-user-group
-tags: 
+permalink: blog/walkah/torontoist-covers-toronto-drupal-user-group/
+tags:
 - drupal
 - toronto
 ---

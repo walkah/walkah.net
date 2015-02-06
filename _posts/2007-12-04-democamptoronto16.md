@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: DemoCampToronto16
 created: 1196808940
-permalink: blog/walkah/democamptoronto16
-tags: 
+permalink: blog/walkah/democamptoronto16/
+tags:
 - toronto
 - democamptoronto
 - torcamp

@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Where are the cool cordless phones?
 created: 1167870666
-permalink: blog/walkah/where-are-cool-cordless-phones
-tags: 
+permalink: blog/walkah/where-are-cool-cordless-phones/
+tags:
 - phone
 - cordless
 - bluetooth
@@ -15,6 +15,6 @@ tags:
 <ul>
 <li>Address book syncing. I have a pretty extensive address book (read: anyone that's going to call me that I'm interested in hearing from is in there), including face pictures for most of them. I love that on my cell phone I can glance down and see who is calling in.</li>
 <li><a href="http://www.salling.com/Clicker/mac/">Clicker</a> integration. OK, it wouldn't have to be clicker : but I like when the phone rings - having my iTunes automatically pause, perhaps my <a href="http://www.adiumx.com/">Adium</a> status set to "on phone", etc.</li>
-<li>Bluetooth headset usage. I have a headset I love, but I can only use it with skype (or my laptop) and my mobile phone.</li> 
+<li>Bluetooth headset usage. I have a headset I love, but I can only use it with skype (or my laptop) and my mobile phone.</li>
 </ul>
 <p>Essentially, I want my cordless phone to work more like my mobile. I mean ideally, it'd even be the same handset. Perhaps if my mobile had a SIP client that worked with vonage? Although, in the short term, I'd be very willing to shell out for a bluetooth-enabled cordless phone. Why isn't there such a thing?</p>

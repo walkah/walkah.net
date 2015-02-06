@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: tell me what concerts to see already!
 created: 1161531128
-permalink: blog/walkah/tell-me-what-concerts-to-see-already
-tags: 
+permalink: blog/walkah/tell-me-what-concerts-to-see-already/
+tags:
 - geek
 - music
 ---

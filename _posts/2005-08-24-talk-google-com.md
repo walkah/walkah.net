@@ -1,13 +1,13 @@
---- 
+---
 layout: post
 title: talk.google.com
 created: 1124858432
-permalink: blog/walkah/talk-google-com
-tags: 
+permalink: blog/walkah/talk-google-com/
+tags:
 - jabber
 ---
 <p>
-WOW! so, <a href="http://thousandrobots.com/blog/archives/2005/08/using_googles_n.php">it's true</a>! there have been various rumblings <a href="http://gigaom.com/2005/08/22/here-comes-google-voice/">around</a> the <a href="http://slashdot.org/article.pl?sid=05/08/23/1313229&amp;tid=217" id="05/08/23/1313229&amp;tid=217">web</a>, but I just in fact was able to log on to talk.google.com using my gmail account info via <a href="http://www.adiumx.com" title="Adiumx - OSX IM client">adium</a>. 
+WOW! so, <a href="http://thousandrobots.com/blog/archives/2005/08/using_googles_n.php">it's true</a>! there have been various rumblings <a href="http://gigaom.com/2005/08/22/here-comes-google-voice/">around</a> the <a href="http://slashdot.org/article.pl?sid=05/08/23/1313229&amp;tid=217" id="05/08/23/1313229&amp;tid=217">web</a>, but I just in fact was able to log on to talk.google.com using my gmail account info via <a href="http://www.adiumx.com" title="Adiumx - OSX IM client">adium</a>.
 </p><p>
 <img src="http://walkah.net/files/talk-google-com-online.jpg" height="37" width="552" border="0" hspace="4" vspace="4" alt="talk.google.com online" title="talk.google.com online" />
 </p><p>

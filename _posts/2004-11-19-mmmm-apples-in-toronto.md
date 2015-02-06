@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: mmmm. apples in toronto
 created: 1100891698
-permalink: blog/walkah/mmmm-apples-in-toronto
-tags: 
+permalink: blog/walkah/mmmm-apples-in-toronto/
+tags:
 - mac os x
 ---
 <p>

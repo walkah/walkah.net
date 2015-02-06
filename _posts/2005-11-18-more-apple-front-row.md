@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: more apple front row
 created: 1132327308
-permalink: blog/walkah/more-apple-front-row
-tags: 
+permalink: blog/walkah/more-apple-front-row/
+tags:
 - apple
 - front row
 ---

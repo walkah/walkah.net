@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: a tale of two macs
 created: 1125689984
-permalink: blog/walkah/a-tale-of-two-macs
-tags: 
+permalink: blog/walkah/a-tale-of-two-macs/
+tags:
 - geek
 - mac os x
 ---

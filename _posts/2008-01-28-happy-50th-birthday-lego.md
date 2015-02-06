@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Happy 50th Birthday, Lego!
 created: 1201576106
-permalink: blog/walkah/happy-50th-birthday-lego
-tags: 
+permalink: blog/walkah/happy-50th-birthday-lego/
+tags:
 - happy birthday
 - lego
 ---

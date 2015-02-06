@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: BluePhoneMenu is dead, long live BluePhoneElite
 created: 1096575921
-permalink: blog/walkah/bluephonemenu-is-dead-long-live-bluephoneelite
-tags: 
+permalink: blog/walkah/bluephonemenu-is-dead-long-live-bluephoneelite/
+tags:
 - mac os x
 ---
 <p>
@@ -15,7 +15,7 @@ i don't do it often, but today i rebooted my powerbook (yes, it was a software u
 <li>you can also have it set your iChat status on incoming calls - very cool. although, i use enough IM systems apart from AIM that I don't actually use iChat these days. i'm hoping <a href="http://www.apple.com/macosx/tiger/">tiger's</a> version of iChat changes that with <a href="http://www.jabber.org/">jabber</a> support.</li>
 <li></li>
 </ul><p>
-also, while not a new feature, i just need to say publicly that pausing iTunes on incoming calls is a really nice touch. 
+also, while not a new feature, i just need to say publicly that pausing iTunes on incoming calls is a really nice touch.
 </p><p>
 if you've got a mac (with bluetooth) and a bluetooth enabled phone, i totally recommend this toy.
 </p>

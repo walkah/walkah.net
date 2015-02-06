@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: toronto drupal users group
 created: 1132625484
-permalink: blog/walkah/toronto-drupal-users-group
-tags: 
+permalink: blog/walkah/toronto-drupal-users-group/
+tags:
 - drupal
 - toronto
 ---

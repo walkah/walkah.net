@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: andrew's noggin
 created: 1080235293
-permalink: blog/walkah/andrews-noggin
-tags: 
+permalink: blog/walkah/andrews-noggin/
+tags:
 - andrew
 ---
 <p>so, if you pay attention here, you know what fun andrew's been having playing hockey this year (and how much fun i've had watching him). what you don't know, is that this past sunday, andrew went head first into the boards during his game.... hard.</p>

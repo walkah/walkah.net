@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Off to Barcelona
 created: 1189873658
-permalink: blog/walkah/barcelona
-tags: 
+permalink: blog/walkah/barcelona/
+tags:
 - drupal
 - openid
 - barcelona

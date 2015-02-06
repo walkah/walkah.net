@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: OpenID 2.0 and Attribute Exchange 1.0
 created: 1196958424
-permalink: blog/walkah/openid-20-and-attribute-exchange-10
-tags: 
+permalink: blog/walkah/openid-20-and-attribute-exchange-10/
+tags:
 - drupal
 - openid
 - identity20

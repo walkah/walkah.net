@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: doughty at the rivoli
 created: 1115823403
-permalink: blog/walkah/doughty-at-the-rivoli
-tags: 
+permalink: blog/walkah/doughty-at-the-rivoli/
+tags:
 - music
 ---
 <p>

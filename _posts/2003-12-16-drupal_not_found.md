@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: drupal_not_found
 created: 1071611580
-permalink: blog/walkah/drupal-not-found
-tags: 
+permalink: blog/walkah/drupal-not-found/
+tags:
 - drupal
 ---
 so, a little side effect of my changing my site around as much as i have is that there are some links out there in the wild that reference content that no longer exists. this is not the end of the world, but i typically like to keep track of them. (i.e. which pages aren't found). well, since sometime around drupal 4.2 there has been support for a feature known as 'clean urls' , which involves apache mod_rewrite, but essentially makes every requested path a valid one as far as apache is concerned. this means drupal should handle when requests are not found. and i wasn't the only one who <a href="http://drupal.org/node/view/2102">thought so</a>.

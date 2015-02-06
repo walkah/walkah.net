@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Oh noes! walkah got pwned!
 created: 1178558694
-permalink: blog/walkah/oh-noes-walkah-got-pwned
-tags: 
+permalink: blog/walkah/oh-noes-walkah-got-pwned/
+tags:
 - site
 - drupal
 - security

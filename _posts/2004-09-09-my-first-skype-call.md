@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: my first skype call
 created: 1094782185
-permalink: blog/walkah/my-first-skype-call
-tags: 
+permalink: blog/walkah/my-first-skype-call/
+tags:
 - geek
 - mac os x
 ---
@@ -14,7 +14,7 @@ We&#8217;ve got a simple bit of software we want to give you. It&#8217;ll let yo
 <br />
 <br />You could think of us as the big, free Internet telephony company. We prefer to think of ourselves as a big group hug, even a present. Yes&#8230; that&#8217;s it&#8230; we&#8217;re a present&#8230; but without the ribbon.
 </blockquote><p>
-so, since Toronto - Vancouver phone calls aren't cheap <a href="http://www.bryght.com/about/the-team/roland">roland</a> and i figured we'd give skype a shot for a discussion this afternoon (plus we were having firewall issues at some end with <a href="http://www.apple.com/ichat/">iChat AV</a>). 
+so, since Toronto - Vancouver phone calls aren't cheap <a href="http://www.bryght.com/about/the-team/roland">roland</a> and i figured we'd give skype a shot for a discussion this afternoon (plus we were having firewall issues at some end with <a href="http://www.apple.com/ichat/">iChat AV</a>).
 </p><p>
 how was it you ask? i must say, i was impressed. i'm not a VoIP/Internet telephony expert by *any* means (unlike <a href="http://www.bmannconsulting.com/">some people</a>), but i found the quality to be quite good. it wasn't perfect, but given the fact that my cell reception in the basement approaches 0, it was no worse than that. plus, i have an old headset (and i don't even remember why i have it), which i just plugged into my powerbook and it made for a nice handsfree experience (also unlike my cell).
 </p><p>

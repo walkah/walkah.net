@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: happy holidays!
 created: 1103837599
-permalink: blog/walkah/happy-holidays
-tags: 
+permalink: blog/walkah/happy-holidays/
+tags:
 - family
 ---
 <p>

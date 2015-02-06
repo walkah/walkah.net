@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: OpenID at DemoCampToronto13
 created: 1177360962
-permalink: blog/walkah/openid-democamptoronto13
-tags: 
+permalink: blog/walkah/openid-democamptoronto13/
+tags:
 - toronto
 - democamp
 - democamptoronto

@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Twitter module for Drupal
 created: 1169780252
-permalink: blog/walkah/twitter-module-drupal
-tags: 
+permalink: blog/walkah/twitter-module-drupal/
+tags:
 - drupal
 - twitter
 - module

@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Yahoo! unveils OpenID support!
 created: 1200584131
-permalink: blog/walkah/yahoo-unveils-openid-support
-tags: 
+permalink: blog/walkah/yahoo-unveils-openid-support/
+tags:
 - yahoo
 - openid
 ---

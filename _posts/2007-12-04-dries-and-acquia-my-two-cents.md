@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: "Dries and Acquia: my two cents"
 created: 1196781559
-permalink: blog/walkah/dries-and-acquia-my-two-cents
-tags: 
+permalink: blog/walkah/dries-and-acquia-my-two-cents/
+tags:
 - drupal
 - dries
 - acquia

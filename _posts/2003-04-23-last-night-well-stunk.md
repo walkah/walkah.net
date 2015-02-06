@@ -1,11 +1,9 @@
---- 
+---
 layout: post
-title: |
-  last night... well... stunk
-
+title: last night... well... stunk
 created: 1051124400
-permalink: blog/walkah/last-night-well-stunk
-tags: 
+permalink: blog/walkah/last-night-well-stunk/
+tags:
 - geek
 ---
 <!--timestamp:1051124400:-->

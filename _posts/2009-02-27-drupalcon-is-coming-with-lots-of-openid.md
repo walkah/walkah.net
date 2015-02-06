@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: DrupalCon is Coming with lots of OpenID
 created: 1235763465
-permalink: blog/walkah/drupalcon-coming-lots-openid
-tags: 
+permalink: blog/walkah/drupalcon-coming-lots-openid/
+tags:
 - drupal
 - openid
 - identity20

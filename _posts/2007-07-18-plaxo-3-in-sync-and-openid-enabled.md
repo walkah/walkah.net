@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: "Plaxo 3: in sync and OpenID enabled!"
 created: 1184788984
-permalink: blog/walkah/plaxo-3-sync-and-openid-enabled
-tags: 
+permalink: blog/walkah/plaxo-3-sync-and-openid-enabled/
+tags:
 - mac os x
 - thunderbird
 - openid

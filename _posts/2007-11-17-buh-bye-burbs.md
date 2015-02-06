@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: buh bye 'burbs
 created: 1195311794
-permalink: blog/walkah/buh-bye-039burbs
-tags: 
+permalink: blog/walkah/buh-bye-039burbs/
+tags:
 - toronto
 - life
 ---

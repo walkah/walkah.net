@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: back to netnewswire
 created: 1104762881
-permalink: blog/walkah/back-to-netnewswire
-tags: 
+permalink: blog/walkah/back-to-netnewswire/
+tags:
 - mac os x
 ---
 <p>

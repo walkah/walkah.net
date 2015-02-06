@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: "Ajax-based IM: meebo"
 created: 1126755909
-permalink: blog/walkah/ajax-based-im-meebo
-tags: 
+permalink: blog/walkah/ajax-based-im-meebo/
+tags:
 - geek
 - jabber
 ---

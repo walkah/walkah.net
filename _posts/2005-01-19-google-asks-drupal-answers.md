@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: google asks, drupal answers
 created: 1106154137
-permalink: blog/walkah/google-asks-drupal-answers
-tags: 
+permalink: blog/walkah/google-asks-drupal-answers/
+tags:
 - drupal
 ---
 <p>

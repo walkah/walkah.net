@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: "drupal made pretty : terminus1525.ca"
 created: 1089299928
-permalink: blog/walkah/drupal-made-pretty-terminus1525-ca
-tags: 
+permalink: blog/walkah/drupal-made-pretty-terminus1525-ca/
+tags:
 - drupal
 - terminus1525
 ---
@@ -19,5 +19,3 @@ tags:
 <p>the other thing, though, is i must admit that i didn't actually have anything to do with the actual design of terminus. the real credit goes to the fine folks at <a href="http://www.zincroe.com/">zincroe</a> (specifically <a href="http://www.terminus1525.ca/studio/view/3">jason</a> and <a href="http://www.terminus1525.ca/studio/view/150">luke</a>). they're pretty darned creative guys and fun to work with too :)</p>
 
 <p>so, what are you waiting for? head over to <a href="http://www.terminus1525.ca/">terminus</a>, sign up and post your art!</p>
-
-

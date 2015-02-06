@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: OpenID at DrupalCon Boston 2008
 created: 1203962460
-permalink: blog/walkah/openid-drupalcon-boston-2008
-tags: 
+permalink: blog/walkah/openid-drupalcon-boston-2008/
+tags:
 - drupal
 - openid
 - drupalcon

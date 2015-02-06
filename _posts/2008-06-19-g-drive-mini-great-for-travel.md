@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: "G-Drive mini: great for travel"
 created: 1213924956
-permalink: blog/walkah/gdrive-mini-great-travel
-tags: 
+permalink: blog/walkah/gdrive-mini-great-travel/
+tags:
 - geek
 - travel
 - hardware

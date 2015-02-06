@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: zed.cbc.ca goes open source
 created: 1105112635
-permalink: blog/walkah/zed-cbc-ca-goes-open-source
-tags: 
+permalink: blog/walkah/zed-cbc-ca-goes-open-source/
+tags:
 - geek
 ---
 <p>

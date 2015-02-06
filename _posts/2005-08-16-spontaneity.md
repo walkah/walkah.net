@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: spontaneity
 created: 1124180673
-permalink: blog/walkah/spontaneity
-tags: 
+permalink: blog/walkah/spontaneity/
+tags:
 - family
 ---
 <p>

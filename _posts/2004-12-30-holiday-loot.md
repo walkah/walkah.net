@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: holiday loot
 created: 1104430867
-permalink: blog/walkah/holiday-loot
-tags: 
+permalink: blog/walkah/holiday-loot/
+tags:
 - family
 - geek
 ---

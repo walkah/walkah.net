@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: jabber.org goes drupal
 created: 1203889525
-permalink: blog/walkah/jabberorg-goes-drupal
-tags: 
+permalink: blog/walkah/jabberorg-goes-drupal/
+tags:
 - drupal
 - jabber
 - xmpp

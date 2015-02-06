@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: netjuke + jinzora
 created: 1114091992
-permalink: blog/walkah/netjuke-jinzora
-tags: 
+permalink: blog/walkah/netjuke-jinzora/
+tags:
 - music
 - netjuke
 ---

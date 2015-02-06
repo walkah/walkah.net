@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: using drupal's blogapi with MarsEdit
 created: 1101761694
-permalink: blog/walkah/using-drupals-blogapi-with-marsedit
-tags: 
+permalink: blog/walkah/using-drupals-blogapi-with-marsedit/
+tags:
 - drupal
 ---
 <p>i have noticed some rumblings (<a href="http://drupal.org/node/6195#comment-16529">like here</a>) about people having trouble posting to <a href="ttp://drupal.org/">drupal</a> powered sites using <a href="http://ranchero.com/marsedit/">MarsEdit</a>. specifically, MarsEdit recognize drupal's category support. here's how to make it work:</p>

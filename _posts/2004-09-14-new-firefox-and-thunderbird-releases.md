@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: new firefox and thunderbird releases
 created: 1095211668
-permalink: blog/walkah/new-firefox-and-thunderbird-releases
-tags: 
+permalink: blog/walkah/new-firefox-and-thunderbird-releases/
+tags:
 - drupal
 - mac os x
 - linux
@@ -15,7 +15,7 @@ however, there's even a cool drupal tie-in! check out <a href="http://spreadfire
 </p><p>
 <strong>firefox</strong>
 </p><p>
-maybe it's wishful thinking, but firefox 1.0RC seems to be a bit snappier on os x than 0.9 was. my only real complaint is that the incredible <a href="http://white.sakura.ne.jp/~piro/xul/_tabextensions.html.en">tabbrowser extensions</a> don't seem to be updated yet. (i'll live). however, that extension allows you to put close buttons on each tab, re-order tabs by drag and drop (and a whole lot more). 
+maybe it's wishful thinking, but firefox 1.0RC seems to be a bit snappier on os x than 0.9 was. my only real complaint is that the incredible <a href="http://white.sakura.ne.jp/~piro/xul/_tabextensions.html.en">tabbrowser extensions</a> don't seem to be updated yet. (i'll live). however, that extension allows you to put close buttons on each tab, re-order tabs by drag and drop (and a whole lot more).
 </p><p>
 the latest version also includes a funky RSS - bookmark thing. i'm not sure i really would ever use it, but when you're browsing a site that has an atom/rss feed there's a little "RSS" button that you can click to 'bookmark' the feed... which then creates a folder in your bookmarks that contain a list of headlines. nice i guess, though it ain't netnewswire ;)
 </p><p>

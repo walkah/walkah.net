@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: down under and back
 created: 1208399043
-permalink: blog/walkah/down-under-and-back
-tags: 
+permalink: blog/walkah/down-under-and-back/
+tags:
 - lullabot
 - australia
 - travel

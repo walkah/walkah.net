@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Dear Drupal 6, Be My Valentine?
 created: 1203020863
-permalink: blog/walkah/dear-drupal-6-be-my-valentine
-tags: 
+permalink: blog/walkah/dear-drupal-6-be-my-valentine/
+tags:
 - drupal
 - openid
 - drupalcon

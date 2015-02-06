@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: goin' to vancouver
 created: 1097802589
-permalink: blog/walkah/goin-to-vancouver
-tags: 
+permalink: blog/walkah/goin-to-vancouver/
+tags:
 - drupal
 ---
 <p>

@@ -1,8 +1,8 @@
---- 
+---
 layout: post
 title: where's walkah?
 created: 1092326017
-permalink: blog/walkah/wheres-walkah
+permalink: blog/walkah/wheres-walkah/
 tags: []
 
 ---

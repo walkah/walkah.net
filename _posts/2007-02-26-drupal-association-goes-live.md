@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Drupal association goes live!
 created: 1172511566
-permalink: blog/walkah/drupal-association-goes-live
-tags: 
+permalink: blog/walkah/drupal-association-goes-live/
+tags:
 - drupal
 - association
 ---

@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: getting rid of those pesky gmail accounts
 created: 1096040130
-permalink: blog/walkah/getting-rid-of-those-pesky-gmail-accounts
-tags: 
+permalink: blog/walkah/getting-rid-of-those-pesky-gmail-accounts/
+tags:
 - geek
 ---
 <p>

@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: new powerbook
 created: 1131512400
-permalink: blog/walkah/new-powerbook
-tags: 
+permalink: blog/walkah/new-powerbook/
+tags:
 - apple
 - powerbook
 ---

@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Ontario Linux Fest, DUG-TO and Lullabot in Toronto
 created: 1191902809
-permalink: blog/walkah/ontario-linux-fest-dug-and-lullabot-toronto
-tags: 
+permalink: blog/walkah/ontario-linux-fest-dug-and-lullabot-toronto/
+tags:
 - drupal
 - toronto
 - lullabot

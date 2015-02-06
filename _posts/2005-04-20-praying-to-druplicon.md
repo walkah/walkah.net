@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: praying to druplicon
 created: 1114027147
-permalink: blog/walkah/praying-to-druplicon
-tags: 
+permalink: blog/walkah/praying-to-druplicon/
+tags:
 - drupal
 ---
 <p>

@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: skype video conferencing
 created: 1133451590
-permalink: blog/skype-video-conferencing
-tags: 
+permalink: blog/skype-video-conferencing/
+tags:
 - skype
 - video
 ---

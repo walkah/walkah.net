@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Vancouver PHP Conference 2007
 created: 1170268002
-permalink: blog/walkah/vancouver-php-conference-2007
-tags: 
+permalink: blog/walkah/vancouver-php-conference-2007/
+tags:
 - drupal
 - php
 - vancouver

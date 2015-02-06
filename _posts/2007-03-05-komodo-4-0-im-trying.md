@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: "Komodo 4.0 : I'm trying"
 created: 1173115729
-permalink: blog/walkah/komodo-4-0-im-trying
-tags: 
+permalink: blog/walkah/komodo-4-0-im-trying/
+tags:
 - drupal
 - php
 - emacs

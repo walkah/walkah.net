@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Why Vagrant
 created: 1309877603
-permalink: blog/why-vagrant
-tags: 
+permalink: blog/why-vagrant/
+tags:
 - drupal
 - acquia
 - devops
@@ -11,9 +11,9 @@ tags:
 - vagrant
 - veewee
 ---
-Few things are as frustrating in the life of a (web) developer as those unfortunate times when, despite passing QA and testing, your latest feature, bugfix or completed task stops working when it gets to production. Nobody likes to have the sweet feeling of "go live" victory wasted. While any number of things can cause the embarrassment and wasted time, one way to significantly reduce the number of potential errors is to keep your development, staging and production environments as close to each other as possible. 
+Few things are as frustrating in the life of a (web) developer as those unfortunate times when, despite passing QA and testing, your latest feature, bugfix or completed task stops working when it gets to production. Nobody likes to have the sweet feeling of "go live" victory wasted. While any number of things can cause the embarrassment and wasted time, one way to significantly reduce the number of potential errors is to keep your development, staging and production environments as close to each other as possible.
 
-Lately I've been dealing with my own special, self-inflicted challenge: I have two machines (a thinkpad x201 and an older, pre-unibody macbook pro) that run two different operating systems (Ubuntu 11.04 and Mac OS 10.6, respectively). Now, why I do this is probably a longer discussion, but I do - and I like it. Just to add a little more (minor) variation, my personal projects, experiments (and in fact this blog) all run on [linode](http://www.linode.com/?r=3c5ce8caa09f2a260f8f696985dac260fcc01d5f) instances (running Ubuntu 10.04). The end result is, my development and "production" happens across 3 different OS versions. Standard package installations of development tools (regardless of which technology I'm exploring at the moment) are rarely ever the same release version. Throw in some subtle and potentially maddening differences between linux and os x (case insensitive filesystem, what?) and I've lost too much time debugging my own fixes. 
+Lately I've been dealing with my own special, self-inflicted challenge: I have two machines (a thinkpad x201 and an older, pre-unibody macbook pro) that run two different operating systems (Ubuntu 11.04 and Mac OS 10.6, respectively). Now, why I do this is probably a longer discussion, but I do - and I like it. Just to add a little more (minor) variation, my personal projects, experiments (and in fact this blog) all run on [linode](http://www.linode.com/?r=3c5ce8caa09f2a260f8f696985dac260fcc01d5f) instances (running Ubuntu 10.04). The end result is, my development and "production" happens across 3 different OS versions. Standard package installations of development tools (regardless of which technology I'm exploring at the moment) are rarely ever the same release version. Throw in some subtle and potentially maddening differences between linux and os x (case insensitive filesystem, what?) and I've lost too much time debugging my own fixes.
 
 As it turns out, I do an okay job of emulating my own little development team (except in productivity, of course).
 

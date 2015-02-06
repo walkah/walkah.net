@@ -1,8 +1,8 @@
---- 
+---
 layout: post
 title: je suis a paris
 created: 1109006363
-permalink: blog/walkah/je-suis-a-paris
+permalink: blog/walkah/je-suis-a-paris/
 tags: []
 
 ---

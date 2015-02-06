@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: more gmail invites
 created: 1093918348
-permalink: blog/walkah/more-gmail-invites
-tags: 
+permalink: blog/walkah/more-gmail-invites/
+tags:
 - geek
 ---
 <p>

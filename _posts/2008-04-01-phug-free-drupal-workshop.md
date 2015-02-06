@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: PHUG Free Drupal Workshop!
 created: 1207104057
-permalink: blog/walkah/phug-free-drupal-workshop
-tags: 
+permalink: blog/walkah/phug-free-drupal-workshop/
+tags:
 - drupal
 - php
 - toronto

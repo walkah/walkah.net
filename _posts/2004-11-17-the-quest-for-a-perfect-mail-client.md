@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: the quest for a perfect mail client
 created: 1100715000
-permalink: blog/walkah/the-quest-for-a-perfect-mail-client
-tags: 
+permalink: blog/walkah/the-quest-for-a-perfect-mail-client/
+tags:
 - geek
 - mac os x
 - linux
@@ -17,5 +17,5 @@ as anyone who uses email a lot can relate, it's hard to find a really good mail 
 </ul><p>
 So, for now, i've switched to Mail.app on my powerbook as my primary mail app. I know, it doesn't satisfy the flagged message thing - although i saw a preview image of tiger's mail.app : which promises to have "smart folders" for things like flagged messages. that would be awesome. plus, mail.app comes with the nice features of - a) showing address book images with messages (the power of images - behold!) - for that matter, address book integration in general. the linux world should take note of simple, specialized applications that then work well with each other. b) the unread message count in the dock is great.
 </p><p>
-but, mail.app isn't perfect. it will start to bug me again soon, i'm sure. so what do other people use for mail? 
+but, mail.app isn't perfect. it will start to bug me again soon, i'm sure. so what do other people use for mail?
 </p>

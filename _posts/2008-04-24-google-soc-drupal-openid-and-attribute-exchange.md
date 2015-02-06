@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: "Google SoC: Drupal, OpenID and Attribute Exchange"
 created: 1209049139
-permalink: blog/walkah/google-soc-drupal-openid-and-attribute-exchange
-tags: 
+permalink: blog/walkah/google-soc-drupal-openid-and-attribute-exchange/
+tags:
 - drupal
 - google
 - openid

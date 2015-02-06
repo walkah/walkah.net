@@ -1,11 +1,9 @@
---- 
+---
 layout: post
-title: |
-  happy birthday to me!
-
+title: happy birthday to me!
 created: 1057936020
-permalink: blog/walkah/happy-birthday-to-me
-tags: 
+permalink: blog/walkah/happy-birthday-to-me/
+tags:
 - geek
 ---
 <!--timestamp:1057936020:-->

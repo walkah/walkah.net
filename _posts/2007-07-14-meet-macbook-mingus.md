@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: meet macbook mingus
 created: 1184433739
-permalink: blog/walkah/meet-macbook-mingus
-tags: 
+permalink: blog/walkah/meet-macbook-mingus/
+tags:
 - mac os x
 - apple
 - macbookpro

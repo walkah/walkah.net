@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Drupal Association 2008 elections
 created: 1200509894
-permalink: blog/walkah/drupal-association-2008-elections
-tags: 
+permalink: blog/walkah/drupal-association-2008-elections/
+tags:
 - drupal
 - drupal association
 ---

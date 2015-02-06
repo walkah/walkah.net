@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: the tools i use
 created: 1235971636
-permalink: blog/walkah/tools-i-use
-tags: 
+permalink: blog/walkah/tools-i-use/
+tags:
 - geek
 - mac os x
 - gtd

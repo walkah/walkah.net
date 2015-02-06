@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: I'm VOIPing with Vonage
 created: 1162872176
-permalink: blog/walkah/im-voiping-vonage
-tags: 
+permalink: blog/walkah/im-voiping-vonage/
+tags:
 - voip
 - vonage
 ---

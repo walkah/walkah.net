@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Change Medium Toronto
 created: 1255968253
-permalink: blog/walkah/change-medium-toronto
-tags: 
+permalink: blog/walkah/change-medium-toronto/
+tags:
 - diso
 - omb
 - social web

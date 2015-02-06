@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Vancouver PHP Conference Wrapup
 created: 1171486354
-permalink: blog/walkah/vancouver-php-conference-wrapup
-tags: 
+permalink: blog/walkah/vancouver-php-conference-wrapup/
+tags:
 - drupal
 - php
 - vancouver

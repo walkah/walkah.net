@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: mason jennings
 created: 1155718526
-permalink: blog/walkah/mason-jennings
-tags: 
+permalink: blog/walkah/mason-jennings/
+tags:
 - music
 - masonjennings
 ---

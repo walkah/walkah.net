@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Drupal Training in Vancouver
 created: 1162937349
-permalink: blog/walkah/drupal-training-vancouver
-tags: 
+permalink: blog/walkah/drupal-training-vancouver/
+tags:
 - drupal
 - vancouver
 - training

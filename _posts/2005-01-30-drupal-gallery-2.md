@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: drupal + gallery 2
 created: 1107137313
-permalink: blog/walkah/drupal-gallery-2
-tags: 
+permalink: blog/walkah/drupal-gallery-2/
+tags:
 - gallery
 - drupal
 ---
@@ -12,7 +12,7 @@ so, here's a public announcement to all those of you who have been emailing me a
 </p><p>
 <strong>this is beta software</strong>
 </p><p>
-:) it may or may not work in your setup or environment. however, those of you that pay close enough attention will have noticed that i've been using the module for a while to run my gallery here. i must say, i like it. 
+:) it may or may not work in your setup or environment. however, those of you that pay close enough attention will have noticed that i've been using the module for a while to run my gallery here. i must say, i like it.
 </p><p>
 there are some cool features that you just don't get <a href="http://www.flickr.com/" title="Flickr photo management">other places</a>. for example check out my <a href="http://walkah.net/gallery/v/cam.html" title="walkah web cam">webcam</a> , or check out a <a href="http://walkah.net/gallery/v/video/" title="gallery2 video handling">video</a> - yep auto generated thumbnails!
 </p><p>

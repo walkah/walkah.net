@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Net neutrality? Oh Canada!
 created: 1206844126
-permalink: blog/walkah/net-neutrality-oh-canada
-tags: 
+permalink: blog/walkah/net-neutrality-oh-canada/
+tags:
 - toronto
 - canada
 - netneutrality

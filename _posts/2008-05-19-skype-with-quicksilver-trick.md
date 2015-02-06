@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Skype with Quicksilver trick
 created: 1211245166
-permalink: blog/walkah/skype-with-quicksilver-trick
-tags: 
+permalink: blog/walkah/skype-with-quicksilver-trick/
+tags:
 - mac os x
 - skype
 - quicksilver

@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: not so bryght anymore
 created: 1185766176
-permalink: blog/walkah/not-so-bryght-anymore
-tags: 
+permalink: blog/walkah/not-so-bryght-anymore/
+tags:
 - bryght
 - work
 - change

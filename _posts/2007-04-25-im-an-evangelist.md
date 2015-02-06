@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: I'm an evangelist?
 created: 1177541205
-permalink: blog/walkah/im-evangelist
-tags: 
+permalink: blog/walkah/im-evangelist/
+tags:
 - drupal
 - democamp
 - democamptoronto

@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Wireless rates in Canada
 created: 1176147019
-permalink: blog/walkah/wireless-rates-canada
-tags: 
+permalink: blog/walkah/wireless-rates-canada/
+tags:
 - wireless
 - rogers
 - canada

@@ -1,10 +1,8 @@
---- 
+---
 layout: post
-title: |
-  blogtk too
-
+title: blogtk too
 created: 1063399620
-permalink: blog/walkah/blogtk-too
+permalink: blog/walkah/blogtk-too/
 tags: []
 
 ---

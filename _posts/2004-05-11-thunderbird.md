@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: thunderbird
 created: 1084323156
-permalink: blog/walkah/thunderbird
-tags: 
+permalink: blog/walkah/thunderbird/
+tags:
 - geek
 ---
 after reading <a href="http://diveintomark.org/archives/2004/05/01/essentials">mark pilgrim's post</a> about software choices (as well as some recommendations from <a href="http://daemon.co.za/">others</a>), i decided to give <a href="http://www.mozilla.org/products/thunderbird/">thunderbird 0.6</a> a go on my powerbook. i already use IMAP for all of my mail, so i regularly switch between clients when moving between platforms. however, my ideal would be to have a cross-platform set of tools that i can use. i already use <a href="http://www.gnu.org/software/emacs/">gnu emacs</a> on osx and linux and recently started using <a href="http://www.mozilla.org/products/firefox/">firefox</a> exclusively. so far i feel pretty good about the switch. the things i really like so far are:

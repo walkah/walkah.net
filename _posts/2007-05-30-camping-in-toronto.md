@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Camping in Toronto
 created: 1180539304
-permalink: blog/walkah/camping-toronto
-tags: 
+permalink: blog/walkah/camping-toronto/
+tags:
 - toronto
 - barcamp
 - torcamp

@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: "DrupalCon Boston 2008: Let's Rock This"
 created: 1204549803
-permalink: blog/walkah/drupalcon-boston-2008-let039s-rock-this
-tags: 
+permalink: blog/walkah/drupalcon-boston-2008-let039s-rock-this/
+tags:
 - drupal
 - drupalcon
 - drupalconboston2008

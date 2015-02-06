@@ -1,11 +1,9 @@
---- 
+---
 layout: post
-title: |
-  trying out gnome-blog
-
+title: trying out gnome-blog
 created: 1063392360
-permalink: blog/walkah/trying-out-gnome-blog
-tags: 
+permalink: blog/walkah/trying-out-gnome-blog/
+tags:
 - site
 ---
 <!--timestamp:1063392360:-->

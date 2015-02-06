@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: state of the drupal
 created: 1092336049
-permalink: blog/walkah/state-of-the-drupal
-tags: 
+permalink: blog/walkah/state-of-the-drupal/
+tags:
 - drupal
 ---
 so, while i was away a *lot* happened with everyone's favourite <a href="http://www.drupal.org/">content management system</a>. it looks like version 4.5 is going to really be awesome! some of the really cool stuff that happened while i was away:

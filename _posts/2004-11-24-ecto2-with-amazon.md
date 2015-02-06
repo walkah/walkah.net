@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: ecto2 with amazon
 created: 1101307931
-permalink: blog/walkah/ecto2-with-amazon
-tags: 
+permalink: blog/walkah/ecto2-with-amazon/
+tags:
 - mac os x
 ---
 <p>

@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Where's walkah been?
 created: 1302282940
-permalink: blog/wheres-walkah-been
-tags: 
+permalink: blog/wheres-walkah-been/
+tags:
 - personal
 - work
 ---
@@ -23,7 +23,7 @@ While a lack of real "focus" (at least amongst open source projects or even prog
 
 ### More writing!
 
-Doing more (and different) things also means I'm learning a lot these days, and I feel compelled to share, because that's the way I am. However, writing has always been challenging for me. I work really well verbally (preferrably face to face, though I've done alright talking to a camera). I have always *wanted* to be a prolific writer, though. For the past few months, I've been trying to practice more. I started with a paper journal, but after losing one and finding that my handwriting no longer keeps up with my brain well, I decided to try writing on my computer. Ultimately, though, I found it hard to establish a good routine and stick with it. 
+Doing more (and different) things also means I'm learning a lot these days, and I feel compelled to share, because that's the way I am. However, writing has always been challenging for me. I work really well verbally (preferrably face to face, though I've done alright talking to a camera). I have always *wanted* to be a prolific writer, though. For the past few months, I've been trying to practice more. I started with a paper journal, but after losing one and finding that my handwriting no longer keeps up with my brain well, I decided to try writing on my computer. Ultimately, though, I found it hard to establish a good routine and stick with it.
 
 A few months ago, though, I gave [750words.com](http://750words.com/) a try and I love it. After a few false starts, I now have a daily 750 word routine that I'm finding helps get me writing (and thinking) for the day. I highly recommend the service (and the practice of writing regularly). The practice has already translated into an article for the [Linux Journal](http://www.linuxjournal.com/) and will hopefully result in more!
 

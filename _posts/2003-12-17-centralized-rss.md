@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: centralized rss
 created: 1071674040
-permalink: blog/walkah/centralized-rss
-tags: 
+permalink: blog/walkah/centralized-rss/
+tags:
 - geek
 ---
 <a href="http://www.alexking.org/blog">alex king</a> has a really good idea on his blog about having an API for centralized rss feed subscriptions, etc. including tracking which articles have been read. i, for one, think this is a great idea. since i tend to move back and forth between computers (and operating systems), i've taken to doing most of my RSS reading with <a href="http://www.ranchero.com/netnewswire">NetNewsWire</a> on my powerbook.

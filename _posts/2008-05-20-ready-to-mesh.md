@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Ready to Mesh
 created: 1211320043
-permalink: blog/walkah/ready-mesh
-tags: 
+permalink: blog/walkah/ready-mesh/
+tags:
 - toronto
 - conference
 - mesh08

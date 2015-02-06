@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: itunes tricks
 created: 1076031346
-permalink: blog/walkah/itunes-tricks
-tags: 
+permalink: blog/walkah/itunes-tricks/
+tags:
 - mac os x
 ---
 <p>decided to checkout 2 things today to make my iTunes experience more pleasurable:

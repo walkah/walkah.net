@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: spam.module to the rescue
 created: 1103647741
-permalink: blog/walkah/spam-module-to-the-rescue
-tags: 
+permalink: blog/walkah/spam-module-to-the-rescue/
+tags:
 - drupal
 ---
 <p>
@@ -13,5 +13,5 @@ these minor things aside, however, i don't really want to have to worry about th
 </p><p>
 so, i finally took the time to install and play around with <a href="http://drupal.org/node/11104" title="Jeremy Andrews' spam module for drupal">spam.module</a>. i figured it would be good (given the general quality of jeremy's <a href="http://drupal.org/project/user/409" title="Drupal Modules for Jeremy Andrews">other modules</a>). well, i'm here to report : so far so good. i quickly trained the system on a couple of my queued spam messages and it has since caught 8 spam comments successfully.
 </p><p>
-got comment spam? get spam.module. 
+got comment spam? get spam.module.
 </p>

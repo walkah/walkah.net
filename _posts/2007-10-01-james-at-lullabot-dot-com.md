@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: James at lullabot dot com
 created: 1191277238
-permalink: blog/walkah/james-lullabot-dot-com
-tags: 
+permalink: blog/walkah/james-lullabot-dot-com/
+tags:
 - drupal
 - lullabot
 - work

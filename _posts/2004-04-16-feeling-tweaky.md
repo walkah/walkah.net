@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: feeling tweaky
 created: 1082168701
-permalink: blog/walkah/feeling-tweaky
-tags: 
+permalink: blog/walkah/feeling-tweaky/
+tags:
 - site
 ---
 so, as part of my little posting flurry, i spent some time actually looking at my site. frankly, i don't totally dig it. so, i've been playing around here and there trying to make it look cooler. how am i doing? :)

@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: around the house
 created: 1082040989
-permalink: blog/walkah/around-the-house
-tags: 
+permalink: blog/walkah/around-the-house/
+tags:
 - family
 ---
 so, been a while, but here's a rough update of what's been going on around the house:
@@ -17,4 +17,3 @@ as for the kids - andrew's hockey season is done, and he's all signed up for soc
 one other andrew note, earlier this week he lost 2 teeth in one day... just when the gaps from his previous tooth loss were nearly filled! for those of you playing along at home - that's 6 baby teeth gone.
 
 as for camryn, she continues to grow and grow. and, finally, she's starting to get teeth almost as fast as andrew is losing them. her 4 canine teeth have been taking their sweet time to come down, but one has officially broken and the other three are well on their way. otherwise, she's doing her best to get into as much trouble as possible - we've had to put away the ladder for andrew's bunk bed since she decided she likes playing on the top bunk too!
-

@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: OSCMS 2007 OpenID Presentation slides
 created: 1175111900
-permalink: blog/walkah/oscms-2007-openid-presentation-slides
-tags: 
+permalink: blog/walkah/oscms-2007-openid-presentation-slides/
+tags:
 - drupal
 - openid
 - oscms

@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Nokia n91 + OS X Address book anyone?
 created: 1175227852
-permalink: blog/walkah/nokia-n91-os-x-address-book-anyone
-tags: 
+permalink: blog/walkah/nokia-n91-os-x-address-book-anyone/
+tags:
 - mac os x
 - nokia
 - series60

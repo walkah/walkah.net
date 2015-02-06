@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Keeping myself in sync
 created: 1173909630
-permalink: blog/walkah/keeping-myself-sync
-tags: 
+permalink: blog/walkah/keeping-myself-sync/
+tags:
 - mac os x
 - thunderbird
 - google

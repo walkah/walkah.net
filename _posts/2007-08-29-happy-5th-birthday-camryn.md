@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Happy 5th Birthday, Camryn
 created: 1188438644
-permalink: blog/walkah/happy-5th-birthday-camryn
-tags: 
+permalink: blog/walkah/happy-5th-birthday-camryn/
+tags:
 - camryn
 - birthday
 - happy birthday

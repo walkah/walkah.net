@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: what's goin' on with the walkah clan
 created: 1101744106
-permalink: blog/walkah/whats-goin-on-with-the-walkah-clan
-tags: 
+permalink: blog/walkah/whats-goin-on-with-the-walkah-clan/
+tags:
 - family
 ---
 <p>

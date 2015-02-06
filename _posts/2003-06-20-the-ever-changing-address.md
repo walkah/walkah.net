@@ -1,11 +1,9 @@
---- 
+---
 layout: post
-title: |
-  the ever-changing address
-
+title: the ever-changing address
 created: 1056125640
-permalink: blog/walkah/the-ever-changing-address
-tags: 
+permalink: blog/walkah/the-ever-changing-address/
+tags:
 - geek
 ---
 <!--timestamp:1056125640:-->

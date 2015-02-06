@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Google reader-ing
 created: 1167366979
-permalink: blog/walkah/google-reader-ing
-tags: 
+permalink: blog/walkah/google-reader-ing/
+tags:
 - aggregator
 - google
 - feeds

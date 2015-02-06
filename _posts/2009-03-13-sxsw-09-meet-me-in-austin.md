@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: "SXSW '09: Meet Me in Austin"
 created: 1236952122
-permalink: blog/walkah/sxsw-09-meet-me-austin
-tags: 
+permalink: blog/walkah/sxsw-09-meet-me-austin/
+tags:
 - sxsw
 - sxsw2009
 ---
@@ -15,6 +15,6 @@ In a few short hours, I'll be on a plane to Austin, TX for another edition of [S
 
 I'll also definitely be at the party that [Lullabot](http://www.lullabot.com/) is co-sponsoring : [32bit](http://twitter.com/32bit).
 
-If you're in Austin for the next few days - ping me on [twitter](http://twitter.com/walkah) or [identi.ca](http://identi.ca/walkah). 
+If you're in Austin for the next few days - ping me on [twitter](http://twitter.com/walkah) or [identi.ca](http://identi.ca/walkah).
 
 Off to finish packing :-)

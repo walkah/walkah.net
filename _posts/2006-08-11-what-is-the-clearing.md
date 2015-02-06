@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: what is the clearing?
 created: 1155277128
-permalink: blog/walkah/what-clearing
-tags: 
+permalink: blog/walkah/what-clearing/
+tags:
 - toronto
 - theclearing
 ---

@@ -1,10 +1,8 @@
---- 
+---
 layout: post
-title: |
-  gnome-blog cvs hacking
-
+title: gnome-blog cvs hacking
 created: 1063654080
-permalink: blog/walkah/gnome-blog-cvs-hacking
+permalink: blog/walkah/gnome-blog-cvs-hacking/
 tags: []
 
 ---

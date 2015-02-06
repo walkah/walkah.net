@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: happy firefox day
 created: 1100015461
-permalink: blog/walkah/happy-firefox-day
-tags: 
+permalink: blog/walkah/happy-firefox-day/
+tags:
 - geek
 - mac os x
 - linux

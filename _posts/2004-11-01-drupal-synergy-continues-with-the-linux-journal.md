@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: drupal synergy continues with the linux journal
 created: 1099329102
-permalink: blog/walkah/drupal-synergy-continues-with-the-linux-journal
-tags: 
+permalink: blog/walkah/drupal-synergy-continues-with-the-linux-journal/
+tags:
 - drupal
 - linux
 ---

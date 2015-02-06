@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: macports vs fink?
 created: 1184435973
-permalink: blog/walkah/macports-vs-fink
-tags: 
+permalink: blog/walkah/macports-vs-fink/
+tags:
 - mac os x
 - macports
 - fink

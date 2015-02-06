@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Komodo IDE take two
 created: 1186062621
-permalink: blog/walkah/komodo-ide-take-two
-tags: 
+permalink: blog/walkah/komodo-ide-take-two/
+tags:
 - drupal
 - php
 - komodo

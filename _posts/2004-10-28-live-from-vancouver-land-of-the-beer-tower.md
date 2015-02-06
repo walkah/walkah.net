@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: live from vancouver - land of the beer tower
 created: 1098948410
-permalink: blog/walkah/live-from-vancouver-land-of-the-beer-tower
-tags: 
+permalink: blog/walkah/live-from-vancouver-land-of-the-beer-tower/
+tags:
 - geek
 - drupal
 ---

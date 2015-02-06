@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Toronto Drupal users rock out
 created: 1201108077
-permalink: blog/walkah/toronto-drupal-users-rock-out
-tags: 
+permalink: blog/walkah/toronto-drupal-users-rock-out/
+tags:
 - drupal
 - toronto
 ---
@@ -14,4 +14,3 @@ tags:
 <li>Inspired by our <a href="http://groups.drupal.org/node/8006">last meetup</a>, <a href="http://drupal.org/user/39343">Jason Swaby</a> went ahead and <a href="http://groups.drupal.org/node/8367">ported a template to a Drupal 6 theme</a>.</li>
 </ul>
 <p>Way to go, guys! It's so awesome to see the local gang rockin' out in the global community!</p>
-

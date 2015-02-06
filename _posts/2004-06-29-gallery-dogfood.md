@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: gallery dogfood
 created: 1088523311
-permalink: blog/walkah/gallery-dogfood
-tags: 
+permalink: blog/walkah/gallery-dogfood/
+tags:
 - gallery
 ---
 so, i've been really lax in my contributions to the gallery project... stemming largely from just being busy with other things. since none of my work centers around gallery (and probably wont in the near future), it has been hard to focus any real attention on helping get gallery2 out the door :(

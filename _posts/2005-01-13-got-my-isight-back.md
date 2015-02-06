@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: got my isight back
 created: 1105672789
-permalink: blog/walkah/got-my-isight-back
-tags: 
+permalink: blog/walkah/got-my-isight-back/
+tags:
 - mac os x
 ---
 <p>

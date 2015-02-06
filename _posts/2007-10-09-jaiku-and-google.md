@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Jaiku and Google
 created: 1191965623
-permalink: blog/walkah/jaiku-and-google
-tags: 
+permalink: blog/walkah/jaiku-and-google/
+tags:
 - google
 - jaiku
 - xmpp

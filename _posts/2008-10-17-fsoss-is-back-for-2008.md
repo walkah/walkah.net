@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: FSOSS is back for 2008!
 created: 1224248823
-permalink: blog/walkah/fsoss-back-2008
-tags: 
+permalink: blog/walkah/fsoss-back-2008/
+tags:
 - drupal
 - toronto
 - fsoss

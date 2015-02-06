@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: drupal 4.4 is out
 created: 1080957955
-permalink: blog/walkah/drupal-4-4-is-out
-tags: 
+permalink: blog/walkah/drupal-4-4-is-out/
+tags:
 - drupal
 ---
 <p>i didn't say anything about it yesterday, but dries managed to get <a href="http://drupal.org/node/view/6853">drupal 4.4</a> out the door. while chances are if you care, you didn't hear it here first, but it's pretty cool because 2 of "major changes" are my fault. specifically:

@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: more drupal than you can shake a stick at
 created: 1125516355
-permalink: blog/walkah/more-drupal-than-you-can-shake-a-stick-at
-tags: 
+permalink: blog/walkah/more-drupal-than-you-can-shake-a-stick-at/
+tags:
 - drupal
 ---
 <p>it's been an exciting couple of days for new drupal sitings:</p>

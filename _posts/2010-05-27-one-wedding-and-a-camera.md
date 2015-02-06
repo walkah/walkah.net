@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: One wedding and a camera
 created: 1274972977
-permalink: blog/walkah/one-wedding-and-camera
-tags: 
+permalink: blog/walkah/one-wedding-and-camera/
+tags:
 - family
 - photography
 - wedding

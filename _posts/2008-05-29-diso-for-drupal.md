@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: DiSo for Drupal
 created: 1212084815
-permalink: blog/walkah/diso-drupal
-tags: 
+permalink: blog/walkah/diso-drupal/
+tags:
 - drupal
 - openid
 - diso

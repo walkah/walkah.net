@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: emacs on os x
 created: 1131294403
-permalink: blog/walkah/emacs-on-os-x
-tags: 
+permalink: blog/walkah/emacs-on-os-x/
+tags:
 - mac os x
 - emacs
 ---

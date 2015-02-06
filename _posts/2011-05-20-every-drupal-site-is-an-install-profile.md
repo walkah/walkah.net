@@ -1,14 +1,14 @@
---- 
+---
 layout: post
 title: Every Drupal Site is an Install Profile
 created: 1305902690
-permalink: blog/every-drupal-site-install-profile
-tags: 
+permalink: blog/every-drupal-site-install-profile/
+tags:
 - drupal
 ---
-I've been working with this hypothesis while working on [Drupal 7](http://drupal.org/) sites. I don't think it's necessarily revolutionary, but I would like some feedback. Currently, I'm approaching every Drupal site build as its own install profile. 
+I've been working with this hypothesis while working on [Drupal 7](http://drupal.org/) sites. I don't think it's necessarily revolutionary, but I would like some feedback. Currently, I'm approaching every Drupal site build as its own install profile.
 
-Back when we were running [Bryght](http://bryght.com/), we recognized the need for "Installation Profiles" as a way to focus the highly configurable, but largely baffling initial experience with Drupal into making sense. We had lofty dreams of catering to various verticals with streamlined, elegant experiences that took the immense power of Drupal and made it *make sense* for new users. That was Drupal 4.5... we were maybe ahead of our time. Needless to say, a lot has happened with Drupal since then. 
+Back when we were running [Bryght](http://bryght.com/), we recognized the need for "Installation Profiles" as a way to focus the highly configurable, but largely baffling initial experience with Drupal into making sense. We had lofty dreams of catering to various verticals with streamlined, elegant experiences that took the immense power of Drupal and made it *make sense* for new users. That was Drupal 4.5... we were maybe ahead of our time. Needless to say, a lot has happened with Drupal since then.
 
 With the release of Drupal 7, one of the things people aren't talking about as much are the vast improvements to install profiles. For the first time ever, Drupal core ships with more than one install profile, which has also meant that for the first time people are consciously aware that such things actually exist. In D7, install profiles behave much more like other Drupal packages (i.e. modules and themes). They have .info file and .install files. They are far easier to create than ever before.
 
@@ -36,4 +36,4 @@ If you build a lot of Drupal sites, chances are good that there is some overlap.
 
 It seems to me there are real gains in being explicit with makefiles, being smart about hosting and re-using core, and being modular in our repositories (using drush make to pull it all together).
 
-Am I crazy? 
+Am I crazy?

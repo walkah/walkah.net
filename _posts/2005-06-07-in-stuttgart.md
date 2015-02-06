@@ -1,8 +1,8 @@
---- 
+---
 layout: post
 title: in stuttgart
 created: 1118168257
-permalink: blog/walkah/in-stuttgart
+permalink: blog/walkah/in-stuttgart/
 tags: []
 
 ---

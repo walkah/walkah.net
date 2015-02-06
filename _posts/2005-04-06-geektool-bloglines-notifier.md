@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: geektool bloglines notifier
 created: 1112799111
-permalink: blog/walkah/geektool-bloglines-notifier
-tags: 
+permalink: blog/walkah/geektool-bloglines-notifier/
+tags:
 - geek
 - mac os x
 ---
@@ -16,7 +16,7 @@ simply add a geektool entry of type "shell" with the following command:
 </p><p>
 <code>echo "bloglines: $(wget -O - -q "http://rpc.bloglines.com/update?user=YOUREMAIL&#38;ver=1"|sed -e 's/|//g')"</code>
 </p><p>
-obviously replace <code>YOUREMAIL</code> with your bloglines account address. 
+obviously replace <code>YOUREMAIL</code> with your bloglines account address.
 </p><p>
 you'll then have an up-to-date unread count on your desktop - great for knowing how far behind you really are in your RSS reading. One note: to be nice to the good folks at bloglines - update the "refresh" setting to be something more like 600 (every 10 minutes).
 </p><p>

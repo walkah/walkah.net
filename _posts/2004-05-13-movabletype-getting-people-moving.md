@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: movabletype getting people moving?
 created: 1084485897
-permalink: blog/walkah/movabletype-getting-people-moving
-tags: 
+permalink: blog/walkah/movabletype-getting-people-moving/
+tags:
 - drupal
 ---
 timing is everything. yes, i'm not the first to report it, but yes <a href="http://secure.sixapart.com/">six apart</a> is playing around with their licensing for <a href="http://www.movabletype.org/">movable type</a>. while they've never really been about 'free software' it's clear that this move has and will <a href="http://www.sixapart.com/corner/archives/2004/05/its_about_time.shtml#trackback">alienate some people</a>.

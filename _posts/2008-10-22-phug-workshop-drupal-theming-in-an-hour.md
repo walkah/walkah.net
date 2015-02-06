@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: "PHUG Workshop: Drupal Theming in an Hour"
 created: 1224685401
-permalink: blog/walkah/phug-workshop-drupal-theming-hour
-tags: 
+permalink: blog/walkah/phug-workshop-drupal-theming-hour/
+tags:
 - drupal
 - toronto
 - phug

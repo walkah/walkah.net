@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: i'm a mike doughty fan boy
 created: 1113521048
-permalink: blog/walkah/im-mike-doughty-fan-boy
-tags: 
+permalink: blog/walkah/im-mike-doughty-fan-boy/
+tags:
 - music
 - doughty
 ---

@@ -1,14 +1,14 @@
---- 
+---
 layout: post
 title: google livesearch
 created: 1102691196
-permalink: blog/walkah/google-livesearch
-tags: 
+permalink: blog/walkah/google-livesearch/
+tags:
 - geek
 - drupal
 ---
 <p>
-via <a href="http://blog.bitflux.ch/archive/livesearch-implemented-in-google.html">the bitflux blog</a>: 
+via <a href="http://blog.bitflux.ch/archive/livesearch-implemented-in-google.html">the bitflux blog</a>:
 </p><blockquote>
 See for yourself -&gt; <a href="http://www.google.com/webhp?complete=1">http://www.google.com/webhp?complete=1</a>
 <br />

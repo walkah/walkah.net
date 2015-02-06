@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: "SXSW 2008: over already?"
 created: 1205347805
-permalink: blog/walkah/sxsw-2008-over-already
-tags: 
+permalink: blog/walkah/sxsw-2008-over-already/
+tags:
 - conference
 - lullabot
 - sxsw

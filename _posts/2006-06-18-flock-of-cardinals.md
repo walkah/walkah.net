@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: flock of cardinals
 created: 1150611758
-permalink: blog/walkah/flock-cardinals
-tags: 
+permalink: blog/walkah/flock-cardinals/
+tags:
 - drupal
 - flock
 - browser
@@ -16,7 +16,7 @@ tags:
 
 <p>i don't use flock's built in news reader, so i can't comment on that... but my one main gripe is still the blog editing tool. it has never supported categories, and seems to no longer even support tags. these are pretty basic features that i use (when i blog). I also no longer see a way to look at & edit old posts. so... it's <a href="http://ecto.kung-foo.tv/">ecto</a> for me still on that front.</p>
 
-<p>but if you're one of the web two point oh crowd (or wanna be) and use flickr, del.icio.us, etc... well you might wanna give this latest release a shot.</p> 
+<p>but if you're one of the web two point oh crowd (or wanna be) and use flickr, del.icio.us, etc... well you might wanna give this latest release a shot.</p>
 
 <p>(oh, and yeah they relaunched their site using <a href="http://drupal.org/">drupal</a>, naturally)
 </p>

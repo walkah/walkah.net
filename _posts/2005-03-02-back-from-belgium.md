@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: back from belgium
 created: 1109784006
-permalink: blog/walkah/back-belgium
-tags: 
+permalink: blog/walkah/back-belgium/
+tags:
 - drupal
 ---
 <p>

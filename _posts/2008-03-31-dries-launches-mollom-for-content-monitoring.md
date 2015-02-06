@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Dries launches Mollom for content monitoring
 created: 1206974868
-permalink: blog/walkah/dries-launches-mollom-content-monitoring
-tags: 
+permalink: blog/walkah/dries-launches-mollom-content-monitoring/
+tags:
 - drupal
 - dries
 - mollom

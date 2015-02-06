@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Networked growl notifications
 created: 1175551406
-permalink: blog/walkah/networked-growl-notifications
-tags: 
+permalink: blog/walkah/networked-growl-notifications/
+tags:
 - mac os x
 - growl
 - itunes

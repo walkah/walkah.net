@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Free Software and Open Source Symposium 2007
 created: 1192816501
-permalink: blog/walkah/free-software-and-open-source-symposium-2007
-tags: 
+permalink: blog/walkah/free-software-and-open-source-symposium-2007/
+tags:
 - drupal
 - toronto
 - fsoss

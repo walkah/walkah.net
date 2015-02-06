@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: "Fluid: Desktop Web Apps"
 created: 1204130200
-permalink: blog/walkah/fluid-desktop-web-apps
-tags: 
+permalink: blog/walkah/fluid-desktop-web-apps/
+tags:
 - mac os x
 - google
 - fluidapp

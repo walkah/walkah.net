@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: weekend fun
 created: 1098061141
-permalink: blog/walkah/weekend-fun
-tags: 
+permalink: blog/walkah/weekend-fun/
+tags:
 - family
 ---
 <p>
@@ -11,7 +11,7 @@ been a while since i did a "family" update (in fact, i still have yet to develop
 </p><p>
 on saturday, andrew's hockey game was at a reasonable hour (8am) which helped start things off right. while i don't have any fancy stats to report, i can say that andrew easily played his best game of this season (which is already a month old!). it's amazing just how far his skating has come over the last year.
 </p><p>
-after the game, we came back for a yummy brunch and then headed out to <a href="http://brooksfarms.com/">brooks farms</a> to get our pumpkins. i must say, if you're in the area, it's a great place to take kids. there's a ton of fun stuff, and it's pretty cheap (compared to lots of kid-friendly activities). andrew and i went there 2 years ago (just after camryn was born) and had promised each other we'd go back (though, i can't remember now why we didn't go last year). the only problem was the weather - it went from sunny and mild to cold and windy to pouring rain (even with a bit of hail). 
+after the game, we came back for a yummy brunch and then headed out to <a href="http://brooksfarms.com/">brooks farms</a> to get our pumpkins. i must say, if you're in the area, it's a great place to take kids. there's a ton of fun stuff, and it's pretty cheap (compared to lots of kid-friendly activities). andrew and i went there 2 years ago (just after camryn was born) and had promised each other we'd go back (though, i can't remember now why we didn't go last year). the only problem was the weather - it went from sunny and mild to cold and windy to pouring rain (even with a bit of hail).
 </p><p>
 today was a quiet-in-your-joggers-eat-some-beef-stew kind of day. mmmm. beef stew.
 </p><p>

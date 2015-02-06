@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Late Drupal Camp Toronto II recap
 created: 1179413320
-permalink: blog/walkah/late-drupal-camp-toronto-ii-recap
-tags: 
+permalink: blog/walkah/late-drupal-camp-toronto-ii-recap/
+tags:
 - drupal
 - toronto
 - drupalcamp

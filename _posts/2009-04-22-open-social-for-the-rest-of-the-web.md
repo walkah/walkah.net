@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Open, Social for the rest of the web
 created: 1240426250
-permalink: blog/walkah/open-social-rest-web
-tags: 
+permalink: blog/walkah/open-social-rest-web/
+tags:
 - drupal
 - openid
 - diso
@@ -31,9 +31,9 @@ The big guys recognize the benefit of exposing their data and most are providing
 
 Sure, the big players want to be the primary authority for your identity and your information. In some cases, it *is* their business. But, rather than ranting against 'the man', I ask: have we - the rest of the web - given them a compelling reason to yet?
 
-### open source platforms for the open web ### 
+### open source platforms for the open web ###
 
-It's one thing for a major site (with hundreds of millions of users) to act like a silo, but on the rest of the web it amounts to isolation. 
+It's one thing for a major site (with hundreds of millions of users) to act like a silo, but on the rest of the web it amounts to isolation.
 
 Those of us working on open source web platforms have an enormous potential for influence here. Implementing the various open standards "from scratch", while possible, is not realistic or even necessary. Increasingly, individuals have [Wordpress](http://wordpress.org/) blogs or perhaps their company, organization or club has a [Drupal](http://drupal.org/) site. Web developers are increasingly turning to these platforms, or development frameworks such as [Rails](http://rubyonrails.org/) and [Django](http://www.djangoproject.com/). These platforms all have a real opportunity to bake in implementations of these open standards. The [DiSo project](http://diso-project.org/) offers a central place for co-ordination around these efforts.
 

@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: goodbye sweet powerbook
 created: 1129187274
-permalink: blog/walkah/goodbye-sweet-powerbook
-tags: 
+permalink: blog/walkah/goodbye-sweet-powerbook/
+tags:
 - mac os x
 ---
 <p>i've been meaning to post this for a few days: it looks like my beloved 12" powerbook is destined for early retirement. a careful search of my "blog memory" reveals that "pollock" (as I'd named it) was just over <a href="http://walkah.net/blog/walkah/powerbook-shipped" title="powerbook shipped">two years old</a>. the problem started a week ago, when I started experiencing frequent kernel panics (if you've never seen mac os x's 4-language screen of death - it's not a happy place)....</p>
@@ -21,8 +21,8 @@ Latest crash info for cpu 0:
    Exception state (sv=0x3C191500)
       PC=0x00A31B24; MSR=0x00009030; DAR=0x3D38134E; ...
       Backtrace:
-0x00A31C20 0x00A187DC 0x00A32AB8 0x00A132C8 0x005C04FC 0x005BB9AC 
-         0x005BBE6C 0x005BBD14 0x0003C738 0x000A9694 
+0x00A31C20 0x00A187DC 0x00A32AB8 0x00A132C8 0x005C04FC 0x005BB9AC
+         0x005BBE6C 0x005BBD14 0x0003C738 0x000A9694
       Kernel loadable modules in backtrace (with dependencies):
          com.apple.GeForce(4.0.6)@0xa12000
 </pre>
@@ -31,7 +31,7 @@ Latest crash info for cpu 0:
 <p>(i actually typed that code from memory). feeling that I was armed with enough information to address an apple tech - and knowing that my laptop was outside the standard warranty period - I called my local apple service shop. The guy on the phone said he wasn't a tech and had no idea what was involved to fix that error - and that the service department was a week behind. *sigh*</p>
 <p>so, i called apple's 800 service number. the guy on the phone was fairly helpful - he seemed to appreciate that I'd at least done my homework - and he suggested that apple had a flat rate service fee of $300-something dollars (US) and that in a roughly 2 week period they could return a working laptop. i thought to myself, "that's nice, but I'd really like to have my laptop sooner". so i asked the guy if the <a href="http://walkah.net/blog/walkah/apple-store-yorkdale-first-in-canada">apple store yorkdale</a> would be able to do the repair - for the same rate. he said "yes".</p>
 
-<p>on saturday sandi and I headed to the mall, waited in line at the "genius bar" and - armed with my error code - i pulled out my powerbook and explained the situation. after some digging, the "genius" made a nasty looking face... *apparently* on the powerbook errors in the video ram (which he confirmed this was) - are treated as a logic board replacement. essentially, to repair it they would replace the entire logic board and charge me $1400 CAD (plus tax)!!!! AND it was going to take them a week to get the part in!</p> 
+<p>on saturday sandi and I headed to the mall, waited in line at the "genius bar" and - armed with my error code - i pulled out my powerbook and explained the situation. after some digging, the "genius" made a nasty looking face... *apparently* on the powerbook errors in the video ram (which he confirmed this was) - are treated as a logic board replacement. essentially, to repair it they would replace the entire logic board and charge me $1400 CAD (plus tax)!!!! AND it was going to take them a week to get the part in!</p>
 
 <p>i mentioned the flat rate fee - and the "genius" responded that they do in fact offer that, but basically when the powerbook got to the apple techs in california, I would have received a notice that there were going to be additional charges. can't argue with a genius, right?</p>
 
@@ -39,4 +39,4 @@ Latest crash info for cpu 0:
 
 <p>i've spent some time sobbing ... i've also been trying to get my brother's old dell inspiron 2650 in a workable state (more on that later). it looks like my best bet will be to eventually replace my powerbook - but i need to do some saving and decide what exactly i want to do next...</p>
 
-<p>please if you have suggestions / recommendations / condolences  - leave a comment. free beer to anyone who knows a simple/cheap fix that I've been unable to dig up :)</p> 
+<p>please if you have suggestions / recommendations / condolences  - leave a comment. free beer to anyone who knows a simple/cheap fix that I've been unable to dig up :)</p>

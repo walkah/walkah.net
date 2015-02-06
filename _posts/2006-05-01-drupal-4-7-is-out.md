@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: drupal 4.7 is out
 created: 1146513091
-permalink: blog/walkah/drupal-4-7-is-out
-tags: 
+permalink: blog/walkah/drupal-4-7-is-out/
+tags:
 - drupal
 ---
 <p>well, after what felt like an eternity the much anticipated <a href="http://drupal.org/drupal-4.7.0">drupal 4.7 release</a> is officially out. so, to all of you who keep asking ... the answer to "when will 4.7 be out?" is *today*. </p>

@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: strongBAD parenting
 created: 1117243423
-permalink: blog/walkah/strongbad-parenting
-tags: 
+permalink: blog/walkah/strongbad-parenting/
+tags:
 - family
 - geek
 ---

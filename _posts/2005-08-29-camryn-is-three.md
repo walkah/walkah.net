@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: camryn is three!
 created: 1125336746
-permalink: blog/walkah/camryn-is-three
-tags: 
+permalink: blog/walkah/camryn-is-three/
+tags:
 - family
 - camryn
 ---

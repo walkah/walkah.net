@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: hey drupal planet!
 created: 1126583054
-permalink: blog/walkah/hey-drupal-planet
-tags: 
+permalink: blog/walkah/hey-drupal-planet/
+tags:
 - drupal
 ---
 <p>just read that drupal has finally joined the "planet" craze by launching <a href="http://drupal.org/planet">drupal planet</a>, and this little blog made the cut. now, besides just sticking myself into the feed for no good reason, I think there are two really cool things here:</p>

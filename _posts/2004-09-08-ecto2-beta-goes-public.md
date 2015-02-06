@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: ecto2 beta goes public
 created: 1094651987
-permalink: blog/walkah/ecto2-beta-goes-public
-tags: 
+permalink: blog/walkah/ecto2-beta-goes-public/
+tags:
 - mac os x
 ---
 <p>

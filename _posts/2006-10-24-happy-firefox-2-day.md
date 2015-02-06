@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: happy firefox 2 day
 created: 1161741737
-permalink: blog/walkah/happy-firefox-2-day
-tags: 
+permalink: blog/walkah/happy-firefox-2-day/
+tags:
 - firefox
 ---
 <p><a href="http://www.spreadfirefox.com/?q=affiliates&id=7295&t=213"><img border="0" alt="Firefox 2" title="Firefox 2" src="http://sfx-images.mozilla.org/affiliates/Buttons/firefox2/firefox-spread-btn-2.png" class="right" /></a>i just refreshed again and it looks like its official : <a href="http://www.mozilla.com/en-US/firefox/" title="firefox: take back the web">firefox 2 has been released</a></p>

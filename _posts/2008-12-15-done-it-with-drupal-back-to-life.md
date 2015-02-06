@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Done it With Drupal - Back to Life
 created: 1229378163
-permalink: blog/walkah/done-it-drupal-back-life
-tags: 
+permalink: blog/walkah/done-it-drupal-back-life/
+tags:
 - drupal
 - toronto
 - life

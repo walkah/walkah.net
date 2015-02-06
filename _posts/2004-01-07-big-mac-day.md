@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: big mac day
 created: 1073498940
-permalink: blog/walkah/big-mac-day
-tags: 
+permalink: blog/walkah/big-mac-day/
+tags:
 - mac os x
 ---
 <p>so yesterday was apple's big <a href="http://www.apple.com/quicktime/qtv/mwsf04/">macworld</a> keynote by steve jobs... and for the first year, i actually watched it. i haven't sat through too many keynote-type industry things.. though i did see linus torvalds give one in person (which was cool), but i have to say... apple knows how to put on a show.</p>

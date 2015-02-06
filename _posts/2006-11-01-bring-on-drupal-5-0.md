@@ -1,9 +1,9 @@
---- 
+---
 layout: post
 title: Bring on Drupal 5.0!
 created: 1162404542
-permalink: blog/walkah/bring-drupal-5-0
-tags: 
+permalink: blog/walkah/bring-drupal-5-0/
+tags:
 - site
 - drupal
 - garland
