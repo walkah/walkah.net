@@ -4,16 +4,12 @@ body {
 	  font-family: $serif;
 
     a { text-decoration: none; }
-    
-    h1 {
-        font-family: $typewriter;
-    }
 
     img.left {
         float: left;
         margin: 0 1em 1em 0;
     }
-    
+
     img.right {
         float: right;
         margin: 0 0 1em 1em;
@@ -27,6 +23,7 @@ body {
                 @include span-columns(2);
                 h1 {
                     a {
+                        font-family: $typewriter;
                         color: #343434;
                     }
                 }
@@ -42,12 +39,12 @@ body {
                 ul.navigation {
                     border-left: 1px solid #dedede;
                     padding-left: 1em;
-                    
+
                     li {
                         display: inline;
                         list-style-type: none;
                         padding: 0 1em 0 0;
-                        
+
                         a {
                             color: #303030;
                         }
@@ -73,7 +70,7 @@ body {
                 border-bottom: 1px #dedede solid;
             }
 
-            article { 
+            article {
                 pre {
                     background: #000;
                     color: #fff;
@@ -92,12 +89,12 @@ body {
                 }
 
             }
-            
+
             article.list {
                 clear: both;
                 border-bottom: 1px solid #dedede;
                 line-height: 2;
-                time { 
+                time {
                     display: block;
                     float: left;
                     width: 8em;
@@ -108,14 +105,14 @@ body {
                         display: none;
                     }
                 }
- 
+
             }
 
             .vcard {
                 padding: 10px 0;
                 margin: 1em 0 0 0;
                 clear: both;
-                
+
                 p {
                     margin: 0 0 0.5em 0;
                 }
