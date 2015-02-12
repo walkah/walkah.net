@@ -10,4 +10,4 @@ title: Posts tagged "{{ page.tag }}"
 {% endunless %}
 {% include article_list.html %}
 {% endfor %}
-<p><a href="/tag/{{ page.tag | replace:' ','-' }}/atom.xml">subscribe</a></p>
+<p><i class="fa fa-rss"></i> <a href="/tag/{{ page.tag | replace:' ','-' }}/atom.xml">Subscribe</a></p>
