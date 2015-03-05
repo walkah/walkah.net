@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "My Static Blog Toolkit"
+date: 2015-03-05T18:02:04-05:00
 summary: A rundown of the tools I (currently) use along side my octopress / jekyll blog
 image: /images/2015/toolbox.jpg
 tags:
