@@ -97,6 +97,13 @@ body {
                   white-space: nowrap;
                 }
 
+                .feature-image {
+                    width: 100%;
+                    height: 200px;
+                    background-size: cover;
+                    background-position: center;
+                }
+
                 footer {
                   font-size: 0.8em;
                 }

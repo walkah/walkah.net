@@ -1,6 +1,9 @@
 <article class="hentry" role="article">
   <header>
     <h1 class="entry-title">{{ post.title }}</h1>
+    {% if post.image %}
+      <div class="feature-image" style="background: url({{ post.image }})"></div>
+    {% endif %}
     <time datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate><a href="{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time>
   </header>
   <div class="entry-content">
