@@ -66,6 +66,18 @@ body {
             padding: 1em 0;
             border-top: 1px solid #dedede;
 
+            figure {
+              margin: 0;
+
+              cite {
+                font-size: 0.8em;
+
+                a {
+                  color: #ababab;
+                }
+              }
+            }
+
             article.hentry {
                 border-bottom: 1px #dedede solid;
 

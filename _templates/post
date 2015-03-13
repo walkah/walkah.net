@@ -3,6 +3,7 @@ layout: {{ layout }}
 title: {{ title }}
 summary: {{ summary }}
 image: {{ image }}
+image_source: {{ image_source }}
 date: {{ date }}
 tags: {{ tags }}
 ---

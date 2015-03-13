@@ -1,10 +1,17 @@
 <article class="hentry" role="article">
   <header>
     <h1 class="entry-title">{{ post.title }}</h1>
-    {% if post.image %}
-      <img class="feature-image" src="{{ post.image }}" alt="{{ post.title }}">
-    {% endif %}
     <time datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate><a href="{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time>
+    {% if post.image %}
+      <figure>
+        <img class="feature-image" src="{{ post.image }}" alt="{{ post.title }}">
+        {% if post.image_source %}
+          <figcaption>
+            <cite><a href="{{ post.image_source }}">{{ post.image_source }}</a></cite>
+          </figcaption>
+        {% endif %}
+      </figure>
+    {% endif %}
   </header>
   <div class="entry-content">
     {{ content }}
