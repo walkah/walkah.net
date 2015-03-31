@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Towards a Morning Routine"
+date: 2015-03-30T22:32:14-04:00
 summary: I'm not a morning person, but I'm trying to fake it.
 image: /images/2015/morning-routine.png
 tags:
