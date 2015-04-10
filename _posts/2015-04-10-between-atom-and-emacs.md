@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Between Atom and Emacs"
+date: 2015-04-10T14:23:13-04:00
 summary: I'm trapped between two text editors and the new kid is winning me over.
 image:
 tags:
