@@ -3,5 +3,6 @@ layout: {{ layout }}
 title: {{ title }}
 summary: {{ summary }}
 image: {{ image }}
+image_source: {{ image_source }}
 tags: {{ tags }}
 ---
