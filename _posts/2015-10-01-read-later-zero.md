@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Read Later Zero
+date: 2015-10-01T22:27:04-04:00
 summary: It's another inbox. Treat it like one.
-image:
-image_source:
+image: /images/2015/sailaway.jpg
+image_source: http://jaymantri.com/post/116603428603/download
 tags:
 - lifehacks
 - productivity
