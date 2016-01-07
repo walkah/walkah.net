@@ -3,7 +3,6 @@ author: James Walker
 description: "James Walker is an independent developer and hacker"
 url: http://walkah.net
 
-highlighter: pygments
 lsi: true
 markdown: redcarpet
 permalink: blog/:title/

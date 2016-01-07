@@ -2,3 +2,5 @@ _site
 .gist-cache
 .sass-cache
 .bundle
+
+.jekyll-metadata
