@@ -3,14 +3,12 @@ author: James Walker
 description: "James Walker is an independent developer and hacker"
 url: http://walkah.net
 
-lsi: true
-markdown: redcarpet
+markdown: kramdown
 permalink: blog/:title/
 exclude: [Gemfile, Gemfile.lock, vendor]
 gems: [bourbon, neat]
 sass:
   style: compressed
 
-# octopress settings
-post_ext: md
-page_ext: html
+gems:
+  - jekyll-gist
