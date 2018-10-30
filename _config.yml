@@ -1,7 +1,7 @@
 title: walkah
 author: James Walker
 description: "James Walker is an independent developer and hacker"
-url: http://walkah.net
+url: https://walkah.net
 
 markdown: kramdown
 permalink: blog/:title/
