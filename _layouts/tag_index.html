@@ -2,12 +2,12 @@
 layout: page
 title: Posts tagged "{{ page.tag }}"
 ---
-{% for post in site.tags[page.tag] reverse %}
-{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-{% unless year == this_year %}
-{% assign year = this_year %}
-<h3>{{ year }}</h3>
-{% endunless %}
-{% include article_list.html %}
+{% for post in site.tags[page.tag] %}
+  {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% unless year == this_year %}
+    {% assign year = this_year %}
+    <h3>{{ year }}</h3>
+  {% endunless %}
+  {% include article_list.html %}
 {% endfor %}
 <p><i class="fa fa-rss"></i> <a href="/tag/{{ page.tag | replace:' ','-' }}/atom.xml">Subscribe</a></p>
