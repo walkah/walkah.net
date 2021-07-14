@@ -4,3 +4,4 @@ _site
 .bundle
 
 .jekyll-metadata
+.jekyll-cache/
