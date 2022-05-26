@@ -5,12 +5,20 @@ url: https://walkah.net
 
 markdown: kramdown
 permalink: blog/:title/
-exclude: [Gemfile, Gemfile.lock, vendor]
+exclude:
+  - node_modules/
+  - postcss.config.js
+  - tailwind.config.js
+  - package.json
+  - package-lock.json
+  - flake.nix
+  - flake.lock
+  - shell.nix
+  - README.md
 
-sass:
-  style: compressed
+postcss:
+  cache: false
 
 plugins:
-  - bourbon
-  - neat 
   - jekyll-gist
+  - jekyll-postcss

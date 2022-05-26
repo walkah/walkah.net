@@ -6,3 +6,5 @@ _site
 .jekyll-metadata
 .jekyll-cache/
 .direnv/
+.gems/
+node_modules/
