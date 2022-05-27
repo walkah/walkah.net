@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Blog Archive
+title: Archive
 ---
-{% for post in site.posts %}
+<section class="h-feed">
+  {% for post in site.posts %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% unless year == this_year %}
     {% assign year = this_year %}
@@ -10,3 +11,4 @@ title: Blog Archive
   {% endunless %}
   {% include article_list.html %}
 {% endfor %}
+</section>

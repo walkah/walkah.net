@@ -3,35 +3,16 @@
 <head>
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   {% include meta.html %}
-
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href='//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css'>
-  <link href="//netdna.bootstrapcdn.com/font-awesome/latest/css/font-awesome.css" rel="stylesheet">
-
+  <link href="/css/main.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="{{site.title}}" type="application/atom+xml">
 </head>
-<body>
-  <div class="container">
-    <div id="header">
-      <header>
-        <h1 id="title"><a href="/">{{ site.title }}</a></h1>
-      </header>
-      <nav role="navigation">
-        <ul class="navigation">
-          <li><a href="/about">About</a></li>
-          <li><a href="/blog/">Blog</a></li>
-          <li><a href="/contact">Contact</a></li>
-          <li><a href="/atom.xml">Feed <i class="fa fa-rss"></i></a></li>
-        </ul>
-      </nav>
+<body class="bg-white text-gray-900 dark:bg-gray-900 dark:text-gray-100">
+  <div class="container max-w-2xl mb-24 mt-8 mx-auto">
+    <div class="px-5 md:px-8">
+      <main id="main">
+          {{ content }}
+      </main>  
     </div>
-    <section id="main">
-      {{ content }}
-    </section>
-    <footer>
-      &copy; 2002-{{ site.time | date:"%Y" }} {{ site.author }}
-    </footer>
   </div>
-  {% include google_analytics.html %}
 </body>
 </html>

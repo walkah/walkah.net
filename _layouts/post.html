@@ -1,13 +1,30 @@
 ---
 layout: default
 ---
-{% assign post=page %}
-{% include post.html %}
-
-{% include vcard.html %}
-
-<h3>related posts</h3>
-{% for post in site.related_posts limit:5 %}
-  {% include article_list.html %}
-{% endfor %}
+<article class="h-entry prose lg:prose-lg dark:prose-invert" role="article">
+  <header>
+    <h1 class="p-name">{{ page.title }}</h1>
+    <time class="dt-published" datetime="{{ page.date | datetime | date_to_xmlschema }}" pubdate><a class="u-url text-gray-500 text-sm" href="{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time>
+  </header>
+  {% if page.image %}
+  <figure class="md:-mx-12">
+    <img class="u-featured rounded-md shadow-md w-full" src="{{ page.image }}" alt="{{ page.title }}">
+    {% if page.image_source %}
+    <figcaption>
+      <cite><a href="{{ page.image_source }}">{{ page.image_source }}</a></cite>
+    </figcaption>
+  {% endif %}
+  </figure>
+  {% endif %}
+  <section class="e-content">
+    {{content}}
+  </section>
+  <footer class="flex flex-row not-prose">
+    <div rel="author" class="p-author h-card basis-1/2">
+      <img class="u-photo w-8 inline-block" src="/images/walkah-avatar.png" >
+      <a href="/">walkah</a>
+    </div>
+    <div class="text-right basis-1/2">{{ page.tags | tag_links }}</div>
+  </footer>
+</article>
 

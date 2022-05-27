@@ -1,22 +1,22 @@
-<article class="hentry" role="article">
+<article class="h-entry prose lg:prose-lg" role="article">
   <header>
-    <h1 class="entry-title">{{ post.title }}</h1>
-    <time datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate><a href="{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time>
-    {% if post.image %}
-      <figure>
-        <img class="feature-image" src="{{ post.image }}" alt="{{ post.title }}">
-        {% if post.image_source %}
-          <figcaption>
-            <cite><a href="{{ post.image_source }}">{{ post.image_source }}</a></cite>
-          </figcaption>
-        {% endif %}
-      </figure>
-    {% endif %}
+    <h1 class="p-name">{{ post.title }}</h1>
+    <time class="dt-published" datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate><a class="u-url" href="{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time>
   </header>
-  <div class="entry-content">
-    {{ content }}
-  </div>
-  <footer class="meta">
-    <p><i class="fa fa-tags"></i> {{ post.tags | tag_links }}</p>
+  {% if post.image %}
+  <figure class="-mx-12">
+    <img class="u-featured rounded-md shadow-md w-full" src="{{ post.image }}" alt="{{ post.title }}">
+    {% if post.image_source %}
+    <figcaption>
+      <cite><a href="{{ post.image_source }}">{{ post.image_source }}</a></cite>
+    </figcaption>
+  {% endif %}
+  </figure>
+  {% endif %}
+  <section class="e-content">
+    {{content}}
+  </section>
+  <footer>
+    <p>{{ post.tags | tag_links }}</p>
   </footer>
 </article>

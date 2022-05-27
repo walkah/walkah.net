@@ -75,7 +75,7 @@ module Jekyll
     def tag_links(tags)
       tags = tags.sort!.map do |item|
         item.tr!(' ', '-')
-        "<a class='tag' href='/tag/#{item}/'>#{item}</a>"
+        "<a class='p-category' href='/tag/#{item}/'>#{item}</a>"
       end
       tags.join(', ')
     end
