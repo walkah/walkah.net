@@ -16,9 +16,13 @@ exclude:
   - shell.nix
   - README.md
 
+feed:
+  path: /atom.xml
+
 postcss:
   cache: false
 
 plugins:
   - jekyll-gist
+  - jekyll-feed
   - jekyll-postcss
