@@ -25,8 +25,6 @@
               export GEM_HOME=$PWD/.gems
               export GEM_PATH=$GEM_HOME
               export PATH=$PWD/bin:$GEM_HOME/bin:$PATH
-              # https://github.com/sass/sassc-ruby/issues/148#issuecomment-644450274
-              bundle config build.sassc --disable-lto
             '';
           };
         }
