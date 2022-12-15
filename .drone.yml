@@ -11,4 +11,5 @@ steps:
     commands:
       - chown -R jekyll:jekyll /drone
       - bundle install
+      - npm install
       - bundle exec jekyll build
