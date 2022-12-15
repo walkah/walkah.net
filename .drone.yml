@@ -1,0 +1,13 @@
+kind: pipeline
+type: docker
+name: default
+
+steps:
+  - name: build
+    image: jekyll/jekyll
+    environment:
+      JEKYLL_ENV: production
+      NODE_ENV: production
+    commands:
+      - bundle install
+      - bundle exec jekyll build
