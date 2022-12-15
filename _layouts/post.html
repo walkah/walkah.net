@@ -8,7 +8,7 @@ layout: default
   </header>
   {% if page.image %}
   <figure class="md:-mx-12">
-    <img class="u-featured rounded-md shadow-md w-full" src="{{ page.image }}" alt="{{ page.title }}">
+    <img class="u-featured rounded-md shadow-md w-full" src="{{ page.image | relative_path }}" alt="{{ page.title }}">
     {% if page.image_source %}
     <figcaption>
       <cite><a href="{{ page.image_source }}">{{ page.image_source }}</a></cite>
@@ -21,8 +21,8 @@ layout: default
   </section>
   <footer class="flex flex-row not-prose">
     <div rel="author" class="p-author h-card basis-1/2">
-      <img class="u-photo w-8 inline-block" src="/images/walkah-avatar.png" >
-      <a href="/">walkah</a>
+      <img class="u-photo w-8 inline-block" src="{{ "/images/walkah-avatar.png" | relative_path }}" >
+      <a href="{{ "/" | relative_path }}">walkah</a>
     </div>
     <div class="text-right basis-1/2">{{ page.tags | tag_links }}</div>
   </footer>

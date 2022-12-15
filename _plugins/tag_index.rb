@@ -5,12 +5,12 @@ module Jekyll
       @base = base
       @dir = dir
       @name = 'index.html'
-      self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'tag_index.html')
-      self.data['tag'] = tag
+      process(@name)
+      read_yaml(File.join(base, '_layouts'), 'tag_index.html')
+      data['tag'] = tag
       tag_title_prefix = site.config['tag_title_prefix'] || 'Posts Tagged &ldquo;'
       tag_title_suffix = site.config['tag_title_suffix'] || '&rdquo;'
-      self.data['title'] = "#{tag_title_prefix}#{tag}#{tag_title_suffix}"
+      data['title'] = "#{tag_title_prefix}#{tag}#{tag_title_suffix}"
     end
   end
 
@@ -20,31 +20,31 @@ module Jekyll
       @base = base
       @dir  = tag_dir
       @name = 'atom.xml'
-      self.process(@name)
+      process(@name)
       # Read the YAML data from the layout page.
-      self.read_yaml(File.join(base, '_layouts'), 'tag_feed.xml')
-      self.data['tag'] = tag
+      read_yaml(File.join(base, '_layouts'), 'tag_feed.xml')
+      data['tag'] = tag
       # Set the title for this page.
       tag_title_prefix = site.config['tag_title_prefix'] || 'Posts Tagged &ldquo;'
       tag_title_suffix = site.config['tag_title_suffix'] || '&rdquo;'
-      self.data['title'] = "#{tag_title_prefix}#{tag}#{tag_title_suffix}"
+      data['title'] = "#{tag_title_prefix}#{tag}#{tag_title_suffix}"
       # Set the meta-description for this page.
 
       # Set the correct feed URL.
-      self.data['feed_url'] = "#{tag_dir}/#{name}"
+      data['feed_url'] = "#{tag_dir}/#{name}"
     end
   end
 
   class TagGenerator < Generator
     safe true
     def generate(site)
-      if site.layouts.key? 'tag_index'
-        dir = site.config['tag_dir'] || 'tag'
-        site.tags.keys.each do |tag|
-          dest_dir = File.join(dir, tag.tr(' ', '-'))
-          write_tag_index(site, dest_dir, tag)
-          write_tag_feed(site, dest_dir, tag)
-        end
+      return unless site.layouts.key? 'tag_index'
+
+      dir = site.config['tag_dir'] || 'tag'
+      site.tags.keys.each do |tag|
+        dest_dir = File.join(dir, tag.tr(' ', '-'))
+        write_tag_index(site, dest_dir, tag)
+        write_tag_feed(site, dest_dir, tag)
       end
     end
 
@@ -74,8 +74,11 @@ module Jekyll
     #
     def tag_links(tags)
       tags = tags.sort!.map do |item|
+        page_url = @context.registers[:page]['url']
+
         item.tr!(' ', '-')
-        "<a class='p-category' href='/tag/#{item}/'>#{item}</a>"
+        tag_path = "/tag/#{item}"
+        "<a class='p-category' href='#{Pathname(tag_path).relative_path_from(Pathname(page_url))}'>#{item}</a>"
       end
       tags.join(', ')
     end

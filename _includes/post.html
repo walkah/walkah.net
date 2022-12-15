@@ -1,11 +1,11 @@
 <article class="h-entry prose lg:prose-lg" role="article">
   <header>
     <h1 class="p-name">{{ post.title }}</h1>
-    <time class="dt-published" datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate><a class="u-url" href="{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time>
+    <time class="dt-published" datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate><a class="u-url" href="{{ post.url | relative_path }}">{{ post.date | date: "%B %d, %Y" }}</a></time>
   </header>
   {% if post.image %}
   <figure class="-mx-12">
-    <img class="u-featured rounded-md shadow-md w-full" src="{{ post.image }}" alt="{{ post.title }}">
+    <img class="u-featured rounded-md shadow-md w-full" src="{{ post.image | relative_path }}" alt="{{ post.title }}">
     {% if post.image_source %}
     <figcaption>
       <cite><a href="{{ post.image_source }}">{{ post.image_source }}</a></cite>
