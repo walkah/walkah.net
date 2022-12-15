@@ -9,5 +9,6 @@ steps:
       JEKYLL_ENV: production
       NODE_ENV: production
     commands:
+      - chown -R jekyll:jekyll /drone
       - bundle install
       - bundle exec jekyll build
