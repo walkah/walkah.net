@@ -8,7 +8,20 @@ steps:
     environment:
       JEKYLL_ENV: production
     commands:
-      - chown -R jekyll:jekyll /drone
+      - chown -R jekyll:jekyll /drone/src
       - npm install
       - bundle install
       - bundle exec jekyll build
+  - name: publish
+    image: walkah.dev/walkah/drone-ipfs-cluster
+    settings:
+      path: /drone/src/_site
+      domain: walkah.net
+      cluster_host: /ip4/100.95.167.126/tcp/9094
+      cluster_user: walkah
+      cluster_pasword:
+        from_secret: IPFS_CLUSTER_PASSWORD
+      cluster_args: -f
+      cf_email: walkah@walkah.net
+      cf_apikey:
+        from_secret: CLOUDFLARE_APIKEY
