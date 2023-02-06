@@ -19,7 +19,7 @@ steps:
       domain: walkah.net
       cluster_host: /ip4/100.95.167.126/tcp/9094
       cluster_user: walkah
-      cluster_pasword:
+      cluster_password:
         from_secret: IPFS_CLUSTER_PASSWORD
       cluster_args: -f
       cf_email: walkah@walkah.net
