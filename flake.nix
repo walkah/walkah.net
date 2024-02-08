@@ -2,7 +2,7 @@
   description = "walkah.net";
 
   inputs = {
-    nixpkgs.url = "github:nixos/nixpkgs/release-23.05";
+    nixpkgs.url = "github:nixos/nixpkgs/nixos-23.11";
     flake-utils.url = "github:numtide/flake-utils";
 
     flake-compat = {
@@ -18,6 +18,7 @@
         in
         {
           devShells.default = pkgs.mkShell {
+            name = "net";
             buildInputs = with pkgs; [ libyaml nodejs ruby ];
             shellHook = ''
               mkdir -p .gems
