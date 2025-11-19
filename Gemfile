@@ -8,5 +8,5 @@ group :jekyll_plugins do
   gem 'jekyll-compose'
   gem 'jekyll-feed'
   gem 'jekyll-gist'
-  gem 'jekyll-postcss'
+	gem 'jekyll-postcss-v2'
 end

@@ -25,4 +25,4 @@ postcss:
 plugins:
   - jekyll-gist
   - jekyll-feed
-  - jekyll-postcss
+  - jekyll-postcss-v2

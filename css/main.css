@@ -1,6 +1,9 @@
 ---
-# front matter
 ---
-@import "tailwindcss/base";
-@import "tailwindcss/components";
-@import "tailwindcss/utilities";
+@import "tailwindcss";
+
+@layer utilities {
+  
+}
+
+@config "../../tailwind.config.js";
